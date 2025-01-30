@@ -11,10 +11,12 @@ We are committed to transparency and open science. Currently, the following reso
 - **[Test Dataset](./dataset/)**: A subset of VQA pairs and WSI data covering 30 cancer types, including a testing set of 208 WSIs with 4,119 VQA pairs.
 - **Train Dataset**: *Coming Soon*.
 - **Pre-trained Weights**: *Coming Soon*.
+
 <p align="center">
   <img src="static/image/Training_VQA_Count.png" width="48%">
   <img src="static/image/Test_VQA_Count.png" width="48%">
 </p>
+
 > **Note:** TCGA images included in the dataset can be downloaded from the [TCIA Portal](https://portal.imaging.datacommons.cancer.gov/explore/).
 
 > **Note:** Additional dataset partitions and fine-tuned weights will be released in future updates.
