@@ -32,7 +32,7 @@ WSI-LLaVA consists of three core components:
 
 The training strategy incorporates three key stages for optimal performance on gigapixel WSIs.
 
-![WSI-LLaVA Architecture](static/image/architecture_new4.png)
+![WSI-LLaVA Architecture](static/image/architecture.png)
 
 ---
 
