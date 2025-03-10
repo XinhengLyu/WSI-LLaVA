@@ -12,7 +12,7 @@ We are committed to transparency and open science. Currently, the following reso
 - 📚 **Train Dataset**: *Coming Soon*  
 - 🎯 **Pre-trained Weights**: *Coming Soon*  
 - 🧬 **TCGA WSI Features**: *Coming Soon*  
-- 🚀 **Codebase**:  *Submitted, Updates in Progress*  
+- 🚀 **Code**:  *Submitted, Updates in Progress*  
 
 <p align="center">
   <img src="static/image/Training_VQA_Count.png" width="48%">
