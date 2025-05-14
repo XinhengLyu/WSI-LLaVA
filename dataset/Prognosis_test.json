@@ -1,0 +1,674 @@
+[
+    {
+        "id": "TCGA-A7-A5ZX-01Z-00-DX1.A4C651F0-DB8E-4534-84A2-AD875F62209F-1",
+        "image": "TCGA-BRCA/TCGA-A7-A5ZX-01Z-00-DX1.A4C651F0-DB8E-4534-84A2-AD875F62209F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of invasive lobular carcinoma, histologic grade 2, TNM staging of T2N3A, and IHC results showing high estrogen receptor positivity, weak progesterone positivity, and negative HER2 expression, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The presence of extensive lymph node involvement (N3A) and moderate histologic grade are associated with a more aggressive disease course, despite hormone receptor positivity providing some treatment options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A6IV-01Z-00-DX1.DA4F4B9F-9070-4B3A-996F-311E0A989FFB-1",
+        "image": "TCGA-BRCA/TCGA-AC-A6IV-01Z-00-DX1.DA4F4B9F-9070-4B3A-996F-311E0A989FFB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of invasive mammary carcinoma, TNM staging of MXT2N1, and IHC results showing strong positivity for estrogen and progesterone receptors, a borderline-low Ki-67 proliferation marker, and equivocal HER-2/neu status, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The TNM stage indicating lymph node involvement (N1) and the uncertainty of HER-2/neu status suggest a more aggressive disease. However, strong positivity for hormone receptors indicates potential effectiveness of hormonal therapies, which is a positive aspect."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-XE-AAOF-01Z-00-DX1.6AD88B69-EB1F-4577-AFA6-CA407BFBB697-1",
+        "image": "TCGA-TGCT/TCGA-XE-AAOF-01Z-00-DX1.6AD88B69-EB1F-4577-AFA6-CA407BFBB697.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of seminoma, TNM staging of T1M0NX, and IHC results showing positive c-kit but negative AE1/AE3 and CAM 5.2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. Seminomas generally have a favorable outcome, especially with an early-stage TNM classification of T1M0. Positive c-kit is a common finding in seminomas and does not negatively impact prognosis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OK-A5Q2-01Z-00-DX2.C828A160-87DF-4625-A8C5-2057F61D54F4-1",
+        "image": "TCGA-BRCA/TCGA-OK-A5Q2-01Z-00-DX2.C828A160-87DF-4625-A8C5-2057F61D54F4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of invasive lobular carcinoma, focally pleomorphic type, with Nottingham Grade II, TNM staging of T2N1MX, and IHC results showing strong ER positivity and partial PR positivity with negative HER-2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is intermediate. The moderate grade and lymph node involvement suggest a significant disease risk, but the strong ER positivity allows for effective hormonal therapies, providing potential treatment benefits."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-GN-A263-01Z-00-DX1.94D0B4EA-8AF9-415E-9D08-BF1F9903D468-1",
+        "image": "TCGA-SKCM/TCGA-GN-A263-01Z-00-DX1.94D0B4EA-8AF9-415E-9D08-BF1F9903D468.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of malignant melanoma, unclassified type, with TNM staging of T4BM1CN3, and IHC results showing tumors positive for S100, HMB-45, Melan-A, and tyrosinase but negative for SMA and desmin, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The advanced TNM staging (T4BM1CN3) indicates a high tumor burden with distant metastases and significant lymph node involvement, which are factors associated with a more aggressive disease course."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A18N-01Z-00-DX1.FE0E24A1-8AE9-4021-B9C7-B408EE0DE329-1",
+        "image": "TCGA-BRCA/TCGA-BH-A18N-01Z-00-DX1.FE0E24A1-8AE9-4021-B9C7-B408EE0DE329.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of Nottingham grade II infiltrating ductal carcinoma, TNM staging of T2N1M0, and IHC results showing positive ER and PR with negative HER-2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is moderately favorable. While the TNM staging indicates lymph node involvement (N1), the moderate grade and strong positivity for hormone receptors suggest effectiveness of hormonal therapies, despite the negative HER-2/neu status."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A140-01Z-00-DX2.0C0A62BB-1FB8-47D8-8FAF-112D221F18BE-1",
+        "image": "TCGA-BRCA/TCGA-D8-A140-01Z-00-DX2.0C0A62BB-1FB8-47D8-8FAF-112D221F18BE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the patient’s diagnosis of poorly differentiated invasive ductal carcinoma, Nottingham Grade 3 (3+3+3), TNM staging of T2N1M0, and IHC results showing strong positivity for estrogen receptors, lower positivity for progesterone receptors, and overexpression of HER2 (Score  3+), is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The poorly differentiated status (Grade 3) and TNM staging indicating lymph node involvement (N1) suggest a more aggressive disease. Although the cancer is positive for estrogen receptors, the overexpression of HER2 is associated with a more aggressive subtype."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-JY-A938-01Z-00-DX1.FC986FA6-0279-469C-B31D-2BEFB4A6DED4-1",
+        "image": "TCGA-ESCA/TCGA-JY-A938-01Z-00-DX1.FC986FA6-0279-469C-B31D-2BEFB4A6DED4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of invasive poorly differentiated adenocarcinoma, TNM staging of T3M0N0, and IHC results showing positive KIT (CD117) and DOG1, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The poorly differentiated status and the T3 stage indicate a more aggressive adenocarcinoma. Although the separate GIST has low-grade features and a very low mitotic rate, the primary adenocarcinoma's characteristics primarily drive the prognosis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-HD-8634-01Z-00-DX1.DD4A56A4-A557-478D-BF86-F3764583D26E-1",
+        "image": "TCGA-HNSC/TCGA-HD-8634-01Z-00-DX1.DD4A56A4-A557-478D-BF86-F3764583D26E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of moderately differentiated squamous cell carcinoma, TNM staging of T1MXN0, and IHC results showing no infiltrating squamous cell carcinoma in multiple lymph nodes, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively good. The tumor is moderately differentiated, the low T1 stage indicates limited tumor size, and the absence of cancer in the lymph nodes suggests a lower likelihood of metastasis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A2QH-01Z-00-DX1.00B8BFFF-F1E2-4F99-A969-8DD7EE4F8E0B-1",
+        "image": "TCGA-BRCA/TCGA-AC-A2QH-01Z-00-DX1.00B8BFFF-F1E2-4F99-A969-8DD7EE4F8E0B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of high-grade sarcomatoid carcinoma with areas of matrix-producing carcinoma, Nottingham Histologic Grade 3 with a total score of 9, TNM staging of MXT3N0, and IHC results showing positivity for p63, CK5/6, and smooth muscle actin, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The high-grade nature (NHG3) of the tumor, substantial tumor size (T3), and aggressive histological characteristics indicate a more aggressive disease, contributing to a poorer prognosis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1XG-01Z-00-DX1.0A58EF43-B97E-4111-8DC3-2F8D9BDBE7D6-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1XG-01Z-00-DX1.0A58EF43-B97E-4111-8DC3-2F8D9BDBE7D6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of invasive ductal carcinoma (Nottingham Grade 3), TNM staging of T4BN1M0, and IHC results showing 10-75% positivity for hormone receptors with negative HER2 protein, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The high histologic grade, advanced tumor size, and lymph node involvement indicate aggressive disease, despite partial hormone receptor positivity. Negative HER2 limits targeted therapy options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0ET-01Z-00-DX1.41E86BB9-EA52-4615-94E7-0F09DDB094F4-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0ET-01Z-00-DX1.41E86BB9-EA52-4615-94E7-0F09DDB094F4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of moderately differentiated invasive ductal carcinoma, TNM staging of T2N2M0, and IHC results showing positive estrogen receptors, negative progesterone receptors, and negative HER2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is intermediate. The moderately differentiated tumor and positive estrogen receptors are favorable factors, but the involvement of multiple lymph nodes (N2) suggests a higher risk of recurrence."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A9RU-01Z-00-DX1.A06BE284-B9DC-4B45-A202-A9D027AEEDD9-1",
+        "image": "TCGA-BRCA/TCGA-E2-A9RU-01Z-00-DX1.A06BE284-B9DC-4B45-A202-A9D027AEEDD9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of invasive ductal carcinoma, Scarff-Bloom-Richardson Grade 3, TNM staging of MXT2N3A, with IHC results showing positive estrogen receptor, negative progesterone receptor, and negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The high grade, significant lymph node involvement (N3A), and partial hormone receptor positivity suggest aggressive disease. Negative HER2 limits targeted therapy options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A6IX-01Z-00-DX1.45B63C4F-9DC3-4CED-9DF9-0F86E647BEA3-1",
+        "image": "TCGA-BRCA/TCGA-AC-A6IX-01Z-00-DX1.45B63C4F-9DC3-4CED-9DF9-0F86E647BEA3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of invasive lobular carcinoma, Nottingham grade 2, TNM staging of MXT2N3A, and IHC results showing high estrogen receptor positivity, minimal progesterone receptor positivity, low HER2 expression, and low Ki67 proliferation index, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The extent of lymph node involvement (N3A) suggests a higher risk of metastasis, despite the favorable hormonal receptor profile and low proliferation index."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A1FU-01Z-00-DX1.3D195750-8C9E-48C6-92EC-44AC6AB56267-1",
+        "image": "TCGA-BRCA/TCGA-BH-A1FU-01Z-00-DX1.3D195750-8C9E-48C6-92EC-44AC6AB56267.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of poorly differentiated infiltrating ductal carcinoma, TNM staging of T1cN0M0, and IHC results showing positive estrogen receptor and HER-2 overexpression (Score 3+), is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The poorly differentiated status suggests aggressive behavior, despite the early TNM stage. HER-2 overexpression also indicates potentially aggressive disease, though it allows for targeted HER-2 therapies."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ZP-A9D0-01Z-00-DX1.D79FA64E-DA46-4FC4-B1E4-CFBC6A56BFBF-1",
+        "image": "TCGA-LIHC/TCGA-ZP-A9D0-01Z-00-DX1.D79FA64E-DA46-4FC4-B1E4-CFBC6A56BFBF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of well-differentiated hepatocellular carcinoma, TNM staging of T1MXNX, and IHC results showing patchy positivity for Glypican, multiple areas of disruption on Reticulin, strong positivity for CD117 and DOG-1, and negative SMA, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively good. The well-differentiated status and early TNM stage (T1) suggest a less aggressive tumor with lower risk of spread, despite some uncertain factors (MX, NX)."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A5XU-01Z-00-DX1.1AEEFAAF-0906-4086-8022-13B689FAB9F5-1",
+        "image": "TCGA-BRCA/TCGA-AC-A5XU-01Z-00-DX1.1AEEFAAF-0906-4086-8022-13B689FAB9F5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the patient's diagnosis of Nottingham grade 3 invasive ductal carcinoma, TNM staging MXT3N0, and positive synaptophysin staining, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The high grade (Nottingham grade 3) indicates aggressive disease, and TNM staging with the tumor size (T3) suggests a more advanced stage. Positive synaptophysin may indicate neuroendocrine differentiation, which can complicate treatment."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1LA-01Z-00-DX1.AE49E943-B830-4ED9-B09E-E499441BC2EC-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1LA-01Z-00-DX1.AE49E943-B830-4ED9-B09E-E499441BC2EC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of invasive ductal carcinoma, SBR Grade 2, TNM staging of M0T1CN1A, and IHC results showing positivity for ER and PR but negative HER2 by FISH, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is moderately good. The cancer’s intermediate grade (SBR Grade 2) and early T1 stage with isolated lymph node involvement (N1A) suggest a reasonable chance of control, while the positive hormone receptors provide effective treatment options despite the negative HER2 status."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1XB-01Z-00-DX2.B262C269-F22B-4306-8195-079C0874EF8E-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1XB-01Z-00-DX2.B262C269-F22B-4306-8195-079C0874EF8E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of invasive ductal carcinoma with ductal carcinoma in situ, Nottingham grade 3, TNM staging of T2N1M0, and IHC showing high estrogen and progesterone receptor positivity with negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The high grade and TNM staging indicating lymph node involvement (N1) suggest a more aggressive disease, despite the high hormone receptor positivity, which offers some treatment options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0YD-01Z-00-DX1.B81FF541-F154-4C49-950B-B6CB723369E2-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0YD-01Z-00-DX1.B81FF541-F154-4C49-950B-B6CB723369E2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of infiltrating lobular carcinoma, TNM staging of T3N0M0 (I+), and IHC results showing positive PanKeratin and Cytokeratin in the left sentinel lymph node 1, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The T3 stage indicates a larger tumor size, and the identification of positive immunohistochemical findings in a sentinel lymph node suggests microscopic metastatic involvement, despite the overall N0 classification."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0EY-01Z-00-DX1.2F2428B3-0767-48E0-AC22-443C244CBD16-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0EY-01Z-00-DX1.2F2428B3-0767-48E0-AC22-443C244CBD16.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of moderately differentiated infiltrating ductal carcinoma, TNM stage T2N1M0, with positive estrogen receptors, negative progesterone receptors, and positive HER2/neu overexpression, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is intermediate. The moderately differentiated grade and node involvement suggest significant disease, while positive estrogen and HER2/neu status offer multiple treatment options that may improve outcomes."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A1AM-01Z-00-DX1.B3F006D9-9386-41E5-B0B1-B0832EE104A0-1",
+        "image": "TCGA-BRCA/TCGA-AR-A1AM-01Z-00-DX1.B3F006D9-9386-41E5-B0B1-B0832EE104A0.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of Nottingham Grade I infiltrating lobular carcinoma, TNM staging of M0T3N1, and IHC results showing weakly positive HER2/neu protein overexpression with no amplification, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. Despite the low grade (Nottingham Grade I), the TNM staging indicates a larger primary tumor (T3) and some lymph node involvement (N1), which are factors associated with a less favorable outcome. The lack of HER2/neu amplification limits targeted therapy options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-GN-A4U3-06Z-00-DX1.5D929F92-4E32-4AE7-9CDA-16E9C63ED751-1",
+        "image": "TCGA-SKCM/TCGA-GN-A4U3-06Z-00-DX1.5D929F92-4E32-4AE7-9CDA-16E9C63ED751.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of metastatic melanoma with TNM staging of T3aN1aM0 and IHC results showing positive S-100, A103/Melan-A, HMB-45, and rare weak positivity for GFAP, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The presence of lymph node involvement (N1a) and the metastatic nature of the melanoma indicate a more advanced and aggressive disease, which generally leads to a less favorable outcome."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1LE-01Z-00-DX1.22856B2A-FBAA-4530-AEEC-E8F77BDA7F7F-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1LE-01Z-00-DX1.22856B2A-FBAA-4530-AEEC-E8F77BDA7F7F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of multifocal invasive ductal carcinoma, SBR Grade 3, TNM staging of T2N3A M0, and IHC results showing negative ER and PR with positive HER2 (Intensity: 3+, 90% tumor staining), is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The high SBR grade (3), advanced TNM stage indicating extensive lymph node involvement (N3A), and negative hormone receptor status contribute to a more aggressive disease, despite the potential benefit from HER2-targeted therapy due to the strong HER2 positivity."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-AADR-01Z-00-DX1.A29CD802-5F9B-49FD-96AA-8B06E97442BE-1",
+        "image": "TCGA-LIHC/TCGA-DD-AADR-01Z-00-DX1.A29CD802-5F9B-49FD-96AA-8B06E97442BE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of hepatocellular carcinoma, TNM staging of T1N0M0, and immunohistochemistry results showing positive Hepatocyte and negative CK19, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. The early stage of liver cancer (T1N0M0) with no lymph node involvement or metastasis suggests a limited disease burden, while the IHC profile indicates typical hepatocellular carcinoma without bile duct differentiation."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-86-7701-01Z-00-DX1.a8a6e71e-9fa9-42c6-a186-0ac7526e9960-1",
+        "image": "TCGA-LUAD/TCGA-86-7701-01Z-00-DX1.a8a6e71e-9fa9-42c6-a186-0ac7526e9960.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of poorly differentiated adenocarcinoma, TNM staging of T2N0M1, and IHC results showing CD15+, CK7+, TTF1+, CK20-, and CDX2-, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The poorly differentiated status of the adenocarcinoma and the TNM staging indicating metastasis (M1) suggest a more aggressive disease with a less favorable outlook."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-55-7573-01Z-00-DX1.43a4bbd2-6a3b-4910-9356-2d750a736817-1",
+        "image": "TCGA-LUAD/TCGA-55-7573-01Z-00-DX1.43a4bbd2-6a3b-4910-9356-2d750a736817.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of adenocarcinoma with TNM staging of T1BMXN0 and IHC results (CK7 positive, K20 negative, TTF-1 positive, RCC negative), is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively good. The early stage (T1) with no lymph node involvement (N0) and the IHC profile suggest a localized disease with a favorable outlook."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A0DC-01Z-00-DX1.C770781E-83E4-47DD-B658-25BBBBB32066-1",
+        "image": "TCGA-BRCA/TCGA-A7-A0DC-01Z-00-DX1.C770781E-83E4-47DD-B658-25BBBBB32066.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of moderately differentiated invasive ductal carcinoma, Nottingham Histologic Grade 2, TNM staging of M0T1CN0 (I-), and immunohistochemistry results showing 80% positivity for estrogen receptor, 0% for progesterone receptor, and negative HER2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively good. The moderately differentiated grade, low TNM stage, and high estrogen receptor positivity suggest favorable responses to hormonal therapy, despite the lack of progesterone receptor expression and negative HER2/neu status."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OL-A66L-01Z-00-DX1.E01BA275-57A5-49DF-9376-1AD0BDFFF7E2-1",
+        "image": "TCGA-BRCA/TCGA-OL-A66L-01Z-00-DX1.E01BA275-57A5-49DF-9376-1AD0BDFFF7E2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of invasive ductal carcinoma with tubulo-lobular features, composite histologic (modified SBR) grade 1 (5/9), TNM staging of MXT1CN0, and IHC results showing strong expression of ER and PR with non-amplified HER2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. The low composite histologic grade, minimal lymph node involvement, strong positivity for hormone receptors (ER and PR), and non-amplified HER2/neu suggest a less aggressive disease with effective hormonal therapy options available."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A0A7-01Z-00-DX1.A0FD4EEF-B536-47C1-BDA1-7AC71BA3E978-1",
+        "image": "TCGA-BRCA/TCGA-A8-A0A7-01Z-00-DX1.A0FD4EEF-B536-47C1-BDA1-7AC71BA3E978.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of undifferentiated Grade II invasive lobular carcinoma, TNM staging of T2N1M0, and IHC results showing negative estrogen and progesterone receptors with positive C-erb B-2 oncoprotein, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The undifferentiated nature and Grade II status, TNM staging indicating lymph node involvement (N1), and negative hormone receptor status combined with positive C-erb B-2 oncoprotein suggest a more aggressive disease and limited hormone therapy options but potential for HER2-targeted therapies."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-6743-01Z-00-DX3.d391f3ab-e954-4f4f-996d-cd0420933ccf-1",
+        "image": "TCGA-LUAD/TCGA-49-6743-01Z-00-DX3.d391f3ab-e954-4f4f-996d-cd0420933ccf.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of poorly differentiated adenocarcinoma, TNM staging of T1MXN2, and IHC results showing positive TTF-1 and p53 with negative EGFR and KRAS mutations, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The poorly differentiated nature of the adenocarcinoma and significant lymph node involvement (N2) suggest aggressive disease behavior, and the lack of EGFR and KRAS mutations limits targeted therapy options."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A73U-01Z-00-DX1.6ECEF7C0-00CC-4AC2-87BD-DBFB6E0DC042-1",
+        "image": "TCGA-BRCA/TCGA-D8-A73U-01Z-00-DX1.6ECEF7C0-00CC-4AC2-87BD-DBFB6E0DC042.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the diagnosis of moderately differentiated invasive ductal carcinoma with a Nottingham Histologic Grade 2 (NHG2), TNM staging of T2N0M0, and immunohistochemistry results showing 75% positivity for estrogen and progesterone receptors, negative HER2, and 15% Ki-67 proliferation index, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. The moderately differentiated status (NHG2), lack of lymph node involvement (N0), and strong hormone receptor positivity suggest favorable treatment responses, while the negative HER2 status and moderate Ki-67 index indicate a lower likelihood of aggressive disease."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A141-01Z-00-DX2.DBD0D81E-28FC-4466-BDE3-94753BD6CBEB-1",
+        "image": "TCGA-BRCA/TCGA-D8-A141-01Z-00-DX2.DBD0D81E-28FC-4466-BDE3-94753BD6CBEB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWith a diagnosis of invasive ductal carcinoma, Nottingham grade 2, TNM staging M0T1CN1, and IHC results showing negative estrogen receptors, 75% positivity for progesterone receptors, and negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. Despite the moderate grade and early tumor size, lymph node involvement (N1) and negative estrogen receptors limit hormonal therapy options, leading to a more challenging disease outlook."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-UB-A7MC-01Z-00-DX1.464FF827-2C8A-412A-ACB6-EBE209A28404-1",
+        "image": "TCGA-LIHC/TCGA-UB-A7MC-01Z-00-DX1.464FF827-2C8A-412A-ACB6-EBE209A28404.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of moderately to poorly differentiated hepatocellular carcinoma, TNM staging of T3aMXN0, and IHC results showing positive HBV surface antigen and vascular invasion, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The moderately to poorly differentiated status, TNM staging indicating large primary tumor (T3a), and evidence of vascular invasion collectively suggest a more aggressive disease course."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1-1",
+        "image": "TCGA-BRCA/TCGA-BH-A1EU-01Z-00-DX1.5A0956EF-0100-47FD-9026-1994CF22D0F1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of moderately differentiated infiltrating ductal carcinoma, TNM staging of T1N0M0, and IHC results showing negative HER-2/neu overexpression, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. The cancer is moderately differentiated with an early-stage TNM profile (T1N0M0), indicating a lower risk of spread, and the negative HER-2/neu suggests a less aggressive disease course."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OL-A5RW-01Z-00-DX1.E16DE8EE-31AF-4EAF-A85F-DB3E3E2C3BFF-1",
+        "image": "TCGA-BRCA/TCGA-OL-A5RW-01Z-00-DX1.E16DE8EE-31AF-4EAF-A85F-DB3E3E2C3BFF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of invasive ductal carcinoma, grade II/III, TNM staging of T1N1MX, and IHC results showing positive CK7, negative CK20 and TTF-1, no expression of ER and PR, and non-amplified HER2/neu, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The combined intermediate to high grade (II/III), node involvement (N1), and lack of hormone receptor expression as well as non-amplified HER2/neu indicate a more aggressive disease with limited options for targeted hormonal therapy."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1IJ-01Z-00-DX1.00093877-7B01-42D3-857C-987BC1F604A3-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1IJ-01Z-00-DX1.00093877-7B01-42D3-857C-987BC1F604A3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the patient’s diagnosis of invasive lobular carcinoma, Scarff Bloom Richardson Grade 2, TNM staging of T1CN0M0, and IHC results showing positive ER and PR with negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is generally good. The low TNM stage, moderate grade, and positive hormone receptors suggest effective hormonal therapy options, while negative HER2 indicates a lower risk of aggressive disease."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A-1",
+        "image": "TCGA-BRCA/TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of grade 3 invasive ductal carcinoma based on the Nottingham grading system, TNM staging of T3N3MX, and IHC results showing ER positivity at 98%, PR positivity at 8%, and HER-2/neu equivocal 2+ by IHC but not amplified by FISH, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The high grade (Nottingham grade 3), advanced TNM stage (T3N3 indicating significant tumor size and extensive lymph node involvement), and mixed hormone receptor statuses suggest a more challenging disease course, despite the high ER positivity."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0ST-01Z-00-DX1.AE05A5DB-4861-40DE-B0F5-7955FC903A96-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0ST-01Z-00-DX1.AE05A5DB-4861-40DE-B0F5-7955FC903A96.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of poorly differentiated infiltrating ductal carcinoma, TNM staging of M0T1CN1A, and immunohistochemistry results indicating negative estrogen receptor, positive progesterone receptor, and negative HER2/NEU overexpression, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The poorly differentiated nature of the cancer, combined with lymph node involvement (N1), suggests a more aggressive disease course, and the lack of HER2/NEU amplification limits targeted therapy options. The positive progesterone receptor provides some therapeutic potential but does not fully offset the other high-risk factors."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A15L-01Z-00-DX1.626032DC-D396-48E7-B888-DFEBCF7102FF-1",
+        "image": "TCGA-BRCA/TCGA-E2-A15L-01Z-00-DX1.626032DC-D396-48E7-B888-DFEBCF7102FF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with moderately differentiated invasive lobular carcinoma, TNM staging of T2N0M0, and IHC results showing ER and PR positivity with negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is generally good. The moderately differentiated tumor, absence of lymph node involvement (N0), and positive hormone receptor status suggest effective hormonal therapy options, while negative HER2 reduces the likelihood of aggressive disease."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FV-A3I1-01Z-00-DX1.853E4122-319B-4425-87B5-E080B3AD6A7A-1",
+        "image": "TCGA-LIHC/TCGA-FV-A3I1-01Z-00-DX1.853E4122-319B-4425-87B5-E080B3AD6A7A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of hepatocellular carcinoma with differentiation ranging from well to poorly differentiated, TNM staging of T2MXN0, and IHC results indicating strong positivity for alpha fetoprotein and glypican-3 and other variable staining, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The mixture of differentiation grades and T2 staging suggest moderately advanced disease, and despite strong markers for hepatocellular carcinoma, the prognosis is typically guarded due to the variability and potential aggression of the tumor."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A570-01Z-00-DX1.64E5F2CA-9396-40DC-A300-04A54657BDE6-1",
+        "image": "TCGA-BRCA/TCGA-E2-A570-01Z-00-DX1.64E5F2CA-9396-40DC-A300-04A54657BDE6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of invasive ductal carcinoma, SBR grade 1, with associated intermediate-grade ductal carcinoma in situ and lobular carcinoma in situ, TNM staging of M0T1CN1MI, and IHC results showing positive ER and PR but negative HER2 by FISH, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is moderately good. The low histological grade (SBR grade 1) and positive hormone receptor status suggest favorable outcomes with hormonal therapies, though lymph node involvement (N1) indicates a need for careful management."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A20H-01Z-00-DX1.A3C962A3-98DD-4952-AA0D-EEBB1F561D5D-1",
+        "image": "TCGA-SKCM/TCGA-EE-A20H-01Z-00-DX1.A3C962A3-98DD-4952-AA0D-EEBB1F561D5D.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the diagnosis of metastatic melanoma, TNM staging of T2M0N0, and IHC results with strongly patchily positive S100 and negative HMB45 and Melan A, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The diagnosis of metastatic melanoma itself indicates a serious condition, and despite the absence of distant metastasis (M0), the T2 stage signifies a thicker and potentially more aggressive primary tumor."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A15E-06Z-00-DX1.D394A007-91A2-4445-9B4A-1629EE684A51-1",
+        "image": "TCGA-BRCA/TCGA-E2-A15E-06Z-00-DX1.D394A007-91A2-4445-9B4A-1629EE684A51.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of SBR Grade 3 invasive ductal carcinoma, TNM staging of M0T1CN1A, and IHC results showing ER and PR positivity and HER2 positivity by FISH, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The high grade (SBR Grade 3) and lymph node involvement (N1) suggest a more aggressive tumor. However, the positive hormone receptors and HER2 status do offer multiple therapeutic options, which might improve overall management but do not alter the initial prognosis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0EM-01Z-00-DX1.305CF011-7451-4880-9A5D-AB4432CF53A5-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0EM-01Z-00-DX1.305CF011-7451-4880-9A5D-AB4432CF53A5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the prognosis for a patient with well-differentiated infiltrative ductal carcinoma, TNM stage M0T1N0 (I-), and negative Cytokeratin on IHC results good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is good. The well-differentiated nature and early TNM stage (M0T1N0) indicate a favorable outcome, despite the negative Cytokeratin result."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DJ-A4UQ-01Z-00-DX1.2F88113C-4F3B-4250-A7C3-5B01AB6ABE55-1",
+        "image": "TCGA-THCA/TCGA-DJ-A4UQ-01Z-00-DX1.2F88113C-4F3B-4250-A7C3-5B01AB6ABE55.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient's diagnosis of papillary thyroid carcinoma, diffuse sclerosing variant, with TNM staging of T3M0N1B, and IHC results showing positive thyroglobulin, TPO, CK34BetaE12, and p40, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is poor. The diffuse sclerosing variant of papillary thyroid carcinoma is more aggressive, and the TNM staging indicating extensive local and nodal involvement (T3 and N1B) suggests a higher risk of recurrence and metastasis."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-IQ-A61I-01Z-00-DX1.6A796222-C609-472B-A905-C5D0521625D9-1",
+        "image": "TCGA-HNSC/TCGA-IQ-A61I-01Z-00-DX1.6A796222-C609-472B-A905-C5D0521625D9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the diagnosis of invasive, poorly differentiated, non-keratinizing squamous cell carcinoma, TNM staging of T1M0N2B, and IHC results showing strong positivity for keratin, CK5/6, p63, and p16 with negative HLA-DR, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is relatively poor. The poorly differentiated status, TNM staging indicating significant lymph node involvement (N2B), and the specific IHC profile all suggest a more aggressive disease with less favorable outcomes."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A3XW-01Z-00-DX1.45F5F36F-5503-4A38-AF37-E526915A8DBE-1",
+        "image": "TCGA-BRCA/TCGA-A2-A3XW-01Z-00-DX1.45F5F36F-5503-4A38-AF37-E526915A8DBE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient’s diagnosis of moderately differentiated infiltrating ductal carcinoma, Nottingham Histologic Grade 2, TNM staging of M0T2N1A, and IHC results showing high positivity for estrogen receptors, low positivity for progesterone receptors, and negative HER2, is the prognosis good or poor?"
+            },
+            {
+                "from": "gpt",
+                "value": "The prognosis is moderate. The intermediate histological grade (NHG2) and lymph node involvement (N1) suggest a more aggressive tumor than lower stages, but the high estrogen receptor positivity provides beneficial hormonal treatment options, slightly balancing the prognosis."
+            }
+        ]
+    }
+]
