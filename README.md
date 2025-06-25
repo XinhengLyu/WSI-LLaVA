@@ -49,7 +49,15 @@ In clinical practice, morphological features such as tissue and cellular structu
 
 ---
 
-### **WSI-Metric**
+## 📏 WSI-Metrics
+
+Traditional NLU metrics like BLEU and ROUGE cannot accurately assess pathology performance due to complex medical terminology. We introduce two specialized metrics:
+
+- **WSI-Precision**: Measures accuracy of model responses against ground-truth claims
+- **WSI-Relevance**: Measures alignment of model responses with clinical relevance
+
+These domain-specific metrics provide more clinically relevant assessment than traditional NLU metrics, with strong correlation to expert evaluations.
+
 ![WSI-Metric](static/image/metric.png)
 
 ---
