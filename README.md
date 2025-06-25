@@ -49,11 +49,7 @@ In clinical practice, morphological features such as tissue and cellular structu
 
 ---
 
-## 📷 Additional Visuals
-
-### **WSI-LLaVA Key Contributions**
-![Key Contributions](static/image/metric.png)
+### **WSI-Metric**
+![WSI-Metric](static/image/metric.png)
 
 ---
-
-This README introduces the **WSI-LLaVA** project, highlights its key contributions, describes the architecture, and provides access to resources such as datasets. Updates for weights and training data will follow in subsequent releases. Let us know if you have any questions or feedback!
