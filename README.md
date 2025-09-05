@@ -1,7 +1,7 @@
 # ![WSI-LLaVA Logo](static/image/wsi-logo_16.png) WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image (ICCV 2025)
 
 <div style="display: flex; align-items: flex-start;">
-<div style="flex: 1; padding-right: 20px;">
+<div style="flex: 0.95; padding-right: 20px;">
 
 🏠 **[Homepage](https://wsi-llava.github.io/)** | 🤗 **[huggingface](https://huggingface.co/datasets/LyuLucas/WSI-Bench)** | 📖 **[Paper](https://arxiv.org/abs/2412.02141)**
 
