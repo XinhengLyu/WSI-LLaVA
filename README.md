@@ -1,10 +1,20 @@
-# ![WSI-LLaVA Logo](static/image/wsi-logo_16.png) WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image
+# ![WSI-LLaVA Logo](static/image/wsi-logo_16.png) WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image (ICCV 2025)
+
+
+<div style="display: flex; align-items: center;">
+<div style="flex: 1; padding-right: 20px;">
 
 🏠 **[Homepage](https://wsi-llava.github.io/)** | 🤗 **[huggingface](https://huggingface.co/datasets/LyuLucas/WSI-Bench)** | 📖 **[Paper](https://arxiv.org/abs/2412.02141)**
 
 **WSI-LLaVA** is a multimodal large language model designed for Whole Slide Image (WSI) analysis, bridging the gap between gigapixel WSIs and textual descriptions. It introduces innovative methods and benchmarks for advancing pathology-focused AI research.
 
----
+</div>
+<div style="flex: 1;">
+
+<img src="static/image/Dataset_comparison.png" alt="WSI-LLaVA" width="100%">
+
+</div>
+</div>
 
 ## 📂 Open Resources
 
