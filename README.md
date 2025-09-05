@@ -25,6 +25,41 @@ We are committed to transparency and open science. Currently, the following reso
 
 ---
 
+
+## 🚀 Usage
+
+### Step 1: Slide Feature Extraction Modification
+
+#### Base Repository
+Based on [prov-gigapath](https://github.com/prov-gigapath/prov-gigapath/tree/main). This is the slide encoder part for feature extraction in our model.
+
+#### Modified File
+`gigapath/slide_encoder.py`
+
+#### Change Description
+
+Modified the global pooling section in the `forward` method of `LongNetViT` class:
+
+**Before:**
+```python
+if self.global_pool:
+    x = x[:, 1:, :].mean(dim=1)  # global average pooling
+    outcome = self.norm(x)
+```
+
+**After:**
+```python
+if self.global_pool:
+    x = x[:, 1:, :]
+    x = torch.nn.functional.adaptive_avg_pool1d(x.permute(0, 2, 1), 576).permute(0, 2, 1)
+    # Pad from (576, 768) to (576, 1024)
+    x = torch.nn.functional.pad(x, (0, 256), mode='constant', value=0)
+    outcome = self.norm(x)
+```
+
+Replaced global average pooling with `adaptive_avg_pool1d` to compress sequence length to a fixed 576 tokens. The output dimension is (576, 768), which is then padded with zeros to (576, 1024) for downstream processing.
+
+
 ## 🏗️ Architecture
 
 WSI-LLaVA consists of three core components:
