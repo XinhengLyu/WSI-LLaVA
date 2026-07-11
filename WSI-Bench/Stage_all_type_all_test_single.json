@@ -1,0 +1,2676 @@
+[
+    {
+        "id": "TCGA-05-4398-01Z-00-DX1.269bc75f-492e-48b1-87ee-85924aa80e74-1",
+        "image": "TCGA-LUAD/TCGA-05-4398-01Z-00-DX1.269bc75f-492e-48b1-87ee-85924aa80e74.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor of any size extending to other organs, no distant metastasis, and metastasis to 4 or more distant lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4M0N3."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EB-A430-01Z-00-DX1.96CA9E52-03F0-4565-959D-B9BB5F95EB9D-1",
+        "image": "TCGA-SKCM/TCGA-EB-A430-01Z-00-DX1.96CA9E52-03F0-4565-959D-B9BB5F95EB9D.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor that has grown into surrounding tissues but has no lymph nodes involved or distant spread, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A8EB-01Z-00-DX1.1272EB5E-4A07-4F3B-B8DA-2574DEC130C5-1",
+        "image": "TCGA-CESC/TCGA-VS-A8EB-01Z-00-DX1.1272EB5E-4A07-4F3B-B8DA-2574DEC130C5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis patient has a tumor larger than 5cm in the greatest dimension, regional lymph node status cannot be assessed, and presence of distant metastasis is unknown. Can you determine the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the provided information, the TNM staging for this patient is T3BNXMX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A10A-01Z-00-DX1.98B19EF1-0DAE-4DC6-8B0E-963CFABC6724-1",
+        "image": "TCGA-BRCA/TCGA-E2-A10A-01Z-00-DX1.98B19EF1-0DAE-4DC6-8B0E-963CFABC6724.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor larger than 5 cm, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A25N-01Z-00-DX1.6DF8A812-E5EB-475E-B5A2-A3E8B5CC0350-1",
+        "image": "TCGA-THCA/TCGA-ET-A25N-01Z-00-DX1.6DF8A812-E5EB-475E-B5A2-A3E8B5CC0350.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, unknown metastasis status, and affected movable ipsilateral lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 MX N1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EA-A3Y4-01Z-00-DX1.05FCBE75-3B24-4905-96D7-E9676EF69003-1",
+        "image": "TCGA-CESC/TCGA-EA-A3Y4-01Z-00-DX1.05FCBE75-3B24-4905-96D7-E9676EF69003.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor measuring less than 0.2 mm that has not extended beyond the surface of the skin, no lymph node involvement and no metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AN-A0FT-01Z-00-DX1.6F263AB3-FB1D-4056-AEC2-4F163017324F-1",
+        "image": "TCGA-BRCA/TCGA-AN-A0FT-01Z-00-DX1.6F263AB3-FB1D-4056-AEC2-4F163017324F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, involvement of 1 to 3 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A2OW-01Z-00-DX1.8495B3A9-2FD1-4ADF-868C-816C897FAD14-1",
+        "image": "TCGA-THCA/TCGA-EM-A2OW-01Z-00-DX1.8495B3A9-2FD1-4ADF-868C-816C897FAD14.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe patient presents with a locally advanced tumor of 2 cm, metastasis is uncertain, and the status of lymph nodes is also unknown. What's the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1BMXNX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EB-A5SF-01Z-00-DX1.8083AB94-89EF-4741-8EE7-86EAC50B86B1-1",
+        "image": "TCGA-SKCM/TCGA-EB-A5SF-01Z-00-DX1.8083AB94-89EF-4741-8EE7-86EAC50B86B1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat's the TNM staging for a patient having a tumor of any size growing into other organs, but with no clear evidence of distant metastasis, and an unknown number of affected lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The correct TNM staging for this patient is T4BM0NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KS-A4I3-01Z-00-DX1.3051CD0A-D061-4CBB-BAAD-7A76947347EC-1",
+        "image": "TCGA-THCA/TCGA-KS-A4I3-01Z-00-DX1.3051CD0A-D061-4CBB-BAAD-7A76947347EC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 5 cm, with metastasis absence and regional lymph nodes involved, can you determine the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the details given, the TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A3AG-01Z-00-DX1.75BA8FFE-82A0-4FE0-B538-2451561DA164-1",
+        "image": "TCGA-SKCM/TCGA-EE-A3AG-01Z-00-DX1.75BA8FFE-82A0-4FE0-B538-2451561DA164.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has no detectable tumor, involvement of 4 to 9 axillary lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T0 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A4FH-01Z-00-DX1.6EB7BADA-ADC1-47A9-A915-4034BA055777-1",
+        "image": "TCGA-THCA/TCGA-EM-A4FH-01Z-00-DX1.6EB7BADA-ADC1-47A9-A915-4034BA055777.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor larger than 5 cm, but metastasis and lymph node involvement are not yet determined?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3MXNX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-B6-A2IU-01Z-00-DX1.3C7DF701-4ED9-4989-AA63-A6B7B105F6EE-1",
+        "image": "TCGA-BRCA/TCGA-B6-A2IU-01Z-00-DX1.3C7DF701-4ED9-4989-AA63-A6B7B105F6EE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-PL-A8LZ-01A-01-DX1.B9F233EE-06DD-4C14-A392-D2937C7C0868-1",
+        "image": "TCGA-BRCA/TCGA-PL-A8LZ-01A-01-DX1.B9F233EE-06DD-4C14-A392-D2937C7C0868.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor size classified as T4, involvement of 4 to 6 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-69-A59K-01Z-00-DX1.01EAF520-9AC1-4ECC-8EF3-B9122924A1E3-1",
+        "image": "TCGA-LUAD/TCGA-69-A59K-01Z-00-DX1.01EAF520-9AC1-4ECC-8EF3-B9122924A1E3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient presents with a tumor size larger than 5 cm, no lymph node involvement, and no distant metastasis, what is the TNM stage?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-4C-A93U-01Z-00-DX3.0628A966-C9DE-4BEC-989C-3AD13A407843-1",
+        "image": "TCGA-THCA/TCGA-4C-A93U-01Z-00-DX3.0628A966-C9DE-4BEC-989C-3AD13A407843.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumour that invades the trachea, has no distant metastasis, and has metastasis to one pulmonary node. What's the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4a N1b M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DA-A1I7-01Z-00-DX1.EC6BB67F-9AEF-47EA-AF5D-508352639DD4-1",
+        "image": "TCGA-SKCM/TCGA-DA-A1I7-01Z-00-DX1.EC6BB67F-9AEF-47EA-AF5D-508352639DD4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with no evidential tumor, metastases to 4 to 9 axillary lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T0 N2b M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-A4ND-01Z-00-DX1.55D61F34-B93A-4555-8348-3EDD40B01066-1",
+        "image": "TCGA-LIHC/TCGA-DD-A4ND-01Z-00-DX1.55D61F34-B93A-4555-8348-3EDD40B01066.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor that is 2cm or smaller, no involvement of regional lymph nodes, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A14Y-01Z-00-DX1.804A22A3-FD8D-4C8A-A766-48D28434DE22-1",
+        "image": "TCGA-BRCA/TCGA-E2-A14Y-01Z-00-DX1.804A22A3-FD8D-4C8A-A766-48D28434DE22.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A2CL-01Z-00-DX1.32F1BCF4-7F07-4653-A859-056DE18DE6CE-1",
+        "image": "TCGA-THCA/TCGA-EM-A2CL-01Z-00-DX1.32F1BCF4-7F07-4653-A859-056DE18DE6CE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a 2 cm tumor, metastasis status and lymph node status both unknown, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1MXNX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-NI-A4U2-01Z-00-DX1.5D27F214-BD72-42E6-A177-D8F47479B9D2-1",
+        "image": "TCGA-LIHC/TCGA-NI-A4U2-01Z-00-DX1.5D27F214-BD72-42E6-A177-D8F47479B9D2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor measuring 7 cm, an unknown status of regional lymph nodes, and an unknown existence of distant metastasis. Can you determine the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 MX NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A3DU-01Z-00-DX1.74661B7D-CB4A-42B4-983A-43BCD7B89D95-1",
+        "image": "TCGA-THCA/TCGA-ET-A3DU-01Z-00-DX1.74661B7D-CB4A-42B4-983A-43BCD7B89D95.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that is 2 cm or less in greatest dimension, involvement of regional lymph nodes but no evidence of metastasis. Can you provide the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0T6-01Z-00-DX1.207A3883-5B41-40EB-95A1-D64C9610650B-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0T6-01Z-00-DX1.207A3883-5B41-40EB-95A1-D64C9610650B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor larger than 5 cm without regional lymph node involvement and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-4490-01Z-00-DX2.1b491bd7-60d2-40a6-96cd-01385bce2b0f-1",
+        "image": "TCGA-LUAD/TCGA-49-4490-01Z-00-DX2.1b491bd7-60d2-40a6-96cd-01385bce2b0f.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 7 cm tumor, several affected lymph nodes, but no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-4505-01Z-00-DX3.d3f8d0c4-e4bc-4201-9b2f-e010f51dd8c3-1",
+        "image": "TCGA-LUAD/TCGA-49-4505-01Z-00-DX3.d3f8d0c4-e4bc-4201-9b2f-e010f51dd8c3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor which is 3 cm in greatest dimension, has metastasized to no distant sites but regional lymph nodes are involved?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N1M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FE-A239-01Z-00-DX1.8CAB4F93-EE07-4E2F-801F-1B1CBF73A47E-1",
+        "image": "TCGA-THCA/TCGA-FE-A239-01Z-00-DX1.8CAB4F93-EE07-4E2F-801F-1B1CBF73A47E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient displays a tumor size of 5 cm, no lymph node involvement, and an undetermined status of distant metastasis. What would be the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient would be T3N0MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EA-A43B-01Z-00-DX1.4EC03006-C4D1-41E2-A003-99F816F21981-1",
+        "image": "TCGA-CESC/TCGA-EA-A43B-01Z-00-DX1.4EC03006-C4D1-41E2-A003-99F816F21981.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a tumor that invades the submucosa and a solitary tumor nodule in the ipsilateral lobe, but has no involvement of regional lymph nodes or distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1bN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-LL-A7SZ-01Z-00-DX1.4DAF6421-6A1D-41C8-BFD6-859FE10CB8CC-1",
+        "image": "TCGA-BRCA/TCGA-LL-A7SZ-01Z-00-DX1.4DAF6421-6A1D-41C8-BFD6-859FE10CB8CC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 6 cm tumor, involvement of 1 to 3 regional lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C8-A12V-01Z-00-DX1.84B29360-B87B-4648-A697-B6610336C2BB-1",
+        "image": "TCGA-BRCA/TCGA-C8-A12V-01Z-00-DX1.84B29360-B87B-4648-A697-B6610336C2BB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C8-A26V-01Z-00-DX1.6E86DF74-D575-4969-8142-963D9DF5208F-1",
+        "image": "TCGA-BRCA/TCGA-C8-A26V-01Z-00-DX1.6E86DF74-D575-4969-8142-963D9DF5208F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 7 cm, involvement of 4 to 6 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A39T-01Z-00-DX1.7006B750-108F-4C2F-A934-80A2434FA029-1",
+        "image": "TCGA-THCA/TCGA-ET-A39T-01Z-00-DX1.7006B750-108F-4C2F-A934-80A2434FA029.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat would be the TNM staging for a patient who has a tumor measuring over 5 cm, no regional lymph node involvement, but an unknown metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3MXN0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A3BO-01Z-00-DX1.4A864B23-7323-4009-BF35-34E3BA399138-1",
+        "image": "TCGA-THCA/TCGA-ET-A3BO-01Z-00-DX1.4A864B23-7323-4009-BF35-34E3BA399138.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor size larger than 7 cm, but not exceeding 10 cm, regional lymph node metastasis, and distant metastasis is not yet determined. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A2CK-01Z-00-DX1.DAB0A75D-45B9-41F3-8358-CAC283D10EA9-1",
+        "image": "TCGA-THCA/TCGA-EM-A2CK-01Z-00-DX1.DAB0A75D-45B9-41F3-8358-CAC283D10EA9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor of 3 cm, metastasis status as unknown, single regional lymph node involvement, and presence of B symptoms. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2MXN1B."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-GM-A2DH-01Z-00-DX1.5790F15F-2A0F-4929-8FE4-18A557007989-1",
+        "image": "TCGA-BRCA/TCGA-GM-A2DH-01Z-00-DX1.5790F15F-2A0F-4929-8FE4-18A557007989.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor size of 2 cm, no lymph node involvement, but isolated tumor cells found, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1c N0 (i+) M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-4490-01Z-00-DX3.0949a10a-0a1f-49dc-9296-ab4d4f0bf988-1",
+        "image": "TCGA-LUAD/TCGA-49-4490-01Z-00-DX3.0949a10a-0a1f-49dc-9296-ab4d4f0bf988.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 7 cm tumor, several affected lymph nodes, but no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EP-A12J-01Z-00-DX1.25DF2F77-805D-443F-AF69-664F5F45A462-1",
+        "image": "TCGA-LIHC/TCGA-EP-A12J-01Z-00-DX1.25DF2F77-805D-443F-AF69-664F5F45A462.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 2 cm tumor, the lymph node status and distant metastasis are unknown?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1MXNX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KM-8440-01Z-00-DX1.528E053C-E8A4-464F-BE47-412836B1C31B-1",
+        "image": "TCGA-KICH/TCGA-KM-8440-01Z-00-DX1.528E053C-E8A4-464F-BE47-412836B1C31B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 5 cm, no regional lymph node involvement but the presence of metastasis is unknown. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 NX MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-78-7536-01Z-00-DX1.6b066140-8b82-40a5-bd48-430eeb4463fe-1",
+        "image": "TCGA-LUAD/TCGA-78-7536-01Z-00-DX1.6b066140-8b82-40a5-bd48-430eeb4463fe.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat would be the TNM staging for a patient who has a 3 cm tumor, with four nearby lymph nodes affected, but no evidence of distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N2M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E9-A1NG-01Z-00-DX1.30d2a611-21ad-4ba0-a03c-31f36ecb83d5-1",
+        "image": "TCGA-BRCA/TCGA-E9-A1NG-01Z-00-DX1.30d2a611-21ad-4ba0-a03c-31f36ecb83d5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no involvement of regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C8-A26W-01Z-00-DX1.CFF07941-6CD1-4CF9-BE5F-387DA67B66CC-1",
+        "image": "TCGA-BRCA/TCGA-C8-A26W-01Z-00-DX1.CFF07941-6CD1-4CF9-BE5F-387DA67B66CC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, involvement of movable ipsilateral lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A0TZ-01Z-00-DX1.2D58BE38-03F6-4310-8E06-F1A523FB0904-1",
+        "image": "TCGA-BRCA/TCGA-AR-A0TZ-01Z-00-DX1.2D58BE38-03F6-4310-8E06-F1A523FB0904.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, involvement of 4 to 9 regional lymph nodes, and distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N2 M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A4FK-01Z-00-DX1.3D8685DA-332D-4F12-A33E-F23E33E837D8-1",
+        "image": "TCGA-THCA/TCGA-EM-A4FK-01Z-00-DX1.3D8685DA-332D-4F12-A33E-F23E33E837D8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 2 cm tumor, no regional lymph node involvement, and unknown metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2NXMX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-AAD1-01Z-00-DX1.819657B9-773A-4E85-9D8B-C9EB580FAD87-1",
+        "image": "TCGA-LIHC/TCGA-DD-AAD1-01Z-00-DX1.819657B9-773A-4E85-9D8B-C9EB580FAD87.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient who has a tumor size under 2 cm, no involvement of lymph nodes, and no distant metastasis, what would be the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EL-A4KG-01Z-00-DX1.8B2BA254-DCF3-45ED-BACB-28822906B7A5-1",
+        "image": "TCGA-THCA/TCGA-EL-A4KG-01Z-00-DX1.8B2BA254-DCF3-45ED-BACB-28822906B7A5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring more than 5 cm, no lymph node involvement and no presence of distant metastasis. What would be the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A26G-01Z-00-DX1.29A27673-A16D-4044-BCCF-14BF6236D7D3-1",
+        "image": "TCGA-BRCA/TCGA-A7-A26G-01Z-00-DX1.29A27673-A16D-4044-BCCF-14BF6236D7D3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring between 2-5 cm, no regional lymph node involvement, isolated tumor cells present, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 (I+) M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A5ZV-01Z-00-DX1.21F2EA4A-4F31-43D6-A036-E20E326AF37E-1",
+        "image": "TCGA-BRCA/TCGA-A7-A5ZV-01Z-00-DX1.21F2EA4A-4F31-43D6-A036-E20E326AF37E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 4 cm tumor, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-CV-A464-01Z-00-DX1.EB6A9C70-8C6C-4CCD-B811-087C1BAB37BE-1",
+        "image": "TCGA-HNSC/TCGA-CV-A464-01Z-00-DX1.EB6A9C70-8C6C-4CCD-B811-087C1BAB37BE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 5cm, no regional lymph node involvement, and no distant metastases, what would be the appropriate TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DC-6683-01Z-00-DX1.e1324f2d-db88-4416-adff-fffd9b361326-1",
+        "image": "TCGA-READ/TCGA-DC-6683-01Z-00-DX1.e1324f2d-db88-4416-adff-fffd9b361326.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor size of 5 cm, 2 regional lymph nodes involved, and no distant metastasis. What would be the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-B6-A0WW-01Z-00-DX1.64048633-1D1A-4074-8C50-7641159355DB-1",
+        "image": "TCGA-BRCA/TCGA-B6-A0WW-01Z-00-DX1.64048633-1D1A-4074-8C50-7641159355DB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 2 cm, involvement of fixed ipsilateral lymph nodes, and unknown distant metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1b MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ER-A19B-01Z-00-DX1.DAEE8E5D-C4AC-419E-A4E0-2164051F22F0-1",
+        "image": "TCGA-SKCM/TCGA-ER-A19B-01Z-00-DX1.DAEE8E5D-C4AC-419E-A4E0-2164051F22F0.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has an unknown primary tumor size, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is TXN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BJ-A45F-01Z-00-DX1.33739120-5AAA-409E-98A1-6B0F72AFEF80-1",
+        "image": "TCGA-THCA/TCGA-BJ-A45F-01Z-00-DX1.33739120-5AAA-409E-98A1-6B0F72AFEF80.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring less than 0.5 mm thick, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2G-AAFI-01Z-00-DX2.9EF796FF-A096-4883-B4E3-3ED7E1779446-1",
+        "image": "TCGA-TGCT/TCGA-2G-AAFI-01Z-00-DX2.9EF796FF-A096-4883-B4E3-3ED7E1779446.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor measuring 3 cm, no lymph node involvement, and no distant metastasis, what is the appropriate TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A73X-01Z-00-DX1.5F0DF75C-594C-42DF-BE3F-E00E5E01DCD6-1",
+        "image": "TCGA-BRCA/TCGA-D8-A73X-01Z-00-DX1.5F0DF75C-594C-42DF-BE3F-E00E5E01DCD6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-AAD5-01Z-00-DX1.3BFFFADC-EED3-44D3-8FA8-C31BB0D6DF91-1",
+        "image": "TCGA-LIHC/TCGA-DD-AAD5-01Z-00-DX1.3BFFFADC-EED3-44D3-8FA8-C31BB0D6DF91.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor measuring 2 cm or less with no lymph node involvement and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-73-4676-01Z-00-DX1.4d781bbc-a45e-4f9d-b6b6-2265282dff99-1",
+        "image": "TCGA-LUAD/TCGA-73-4676-01Z-00-DX1.4d781bbc-a45e-4f9d-b6b6-2265282dff99.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a tumor less than 2 cm, microscopically confirmed lymph node metastases, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2aN1M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A4FQ-01Z-00-DX1.EDAA6AF4-8736-46C8-AF49-F4901AC5D0C2-1",
+        "image": "TCGA-THCA/TCGA-EM-A4FQ-01Z-00-DX1.EDAA6AF4-8736-46C8-AF49-F4901AC5D0C2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, positive metastasis status is not clarified, and involvement of 1 regional lymph node. Can you state the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 MX N1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-LD-A7W6-01Z-00-DX1.3E125146-B447-4973-AE09-6D374970B46C-1",
+        "image": "TCGA-BRCA/TCGA-LD-A7W6-01Z-00-DX1.3E125146-B447-4973-AE09-6D374970B46C.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, involvement of movable ipsilateral lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-6742-01Z-00-DX5.74539ee6-0ac6-4663-89f1-c6a74a59a4cb-1",
+        "image": "TCGA-LUAD/TCGA-49-6742-01Z-00-DX5.74539ee6-0ac6-4663-89f1-c6a74a59a4cb.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor less than 2 cm, no distant metastasis, and 1 to 3 axillary lymph nodes involved, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2AM0N1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-LN-A4A6-01Z-00-DX1.643DDC8E-17D7-4939-ACE7-438CC2A1BD22-1",
+        "image": "TCGA-ESCA/TCGA-LN-A4A6-01Z-00-DX1.643DDC8E-17D7-4939-ACE7-438CC2A1BD22.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor measuring 3 cm, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A1AP-01Z-00-DX1.F163EED5-0385-41AA-BA35-54E4910CD99E-1",
+        "image": "TCGA-BRCA/TCGA-AR-A1AP-01Z-00-DX1.F163EED5-0385-41AA-BA35-54E4910CD99E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 2 cm tumor, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ED-A97K-01Z-00-DX1.C2B446BC-DD52-4BAE-A098-0FBDADC70445-1",
+        "image": "TCGA-LIHC/TCGA-ED-A97K-01Z-00-DX1.C2B446BC-DD52-4BAE-A098-0FBDADC70445.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 5 cm with no regional lymph node metastasis or distant metastasis, what would the TNM staging be?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-S2-AA1A-01Z-00-DX1.4B5D5FAE-8305-4D2D-B245-584589352886-1",
+        "image": "TCGA-LUAD/TCGA-S2-AA1A-01Z-00-DX1.4B5D5FAE-8305-4D2D-B245-584589352886.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient has a tumor that invades the submucosa, but there is no lymph node involvement and no distant metastasis, what is their TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging of this patient would be T1b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-JY-A6FB-01Z-00-DX1.8BCAB739-0AEE-41C1-B45B-07C615677DBB-1",
+        "image": "TCGA-ESCA/TCGA-JY-A6FB-01Z-00-DX1.8BCAB739-0AEE-41C1-B45B-07C615677DBB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient has a tumor measuring up to 2 cm, no involvement of regional lymph nodes, and no distant metastasis, what would be their TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A09A-01Z-00-DX1.78773A6C-BA8A-46BE-AC2A-9C6FDAB45622-1",
+        "image": "TCGA-BRCA/TCGA-A8-A09A-01Z-00-DX1.78773A6C-BA8A-46BE-AC2A-9C6FDAB45622.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, regional lymph node status unknown, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 NX M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-UL-AAZ6-01Z-00-DX1.0488628B-C06B-4A1D-9198-EC29D0BACF6E-1",
+        "image": "TCGA-BRCA/TCGA-UL-AAZ6-01Z-00-DX1.0488628B-C06B-4A1D-9198-EC29D0BACF6E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring between 2 and 5 cm, no regional lymph node involvement, and unknown metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A5GR-06Z-00-DX1.5621C88A-0C9E-47D9-8458-A473B7BD28B7-1",
+        "image": "TCGA-SKCM/TCGA-D3-A5GR-06Z-00-DX1.5621C88A-0C9E-47D9-8458-A473B7BD28B7.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor invading submucosa, one regional lymph node involved, with no evidence of distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A22N-01Z-00-DX1.DB853528-DCF5-4463-B196-AFA8670D67FF-1",
+        "image": "TCGA-THCA/TCGA-EM-A22N-01Z-00-DX1.DB853528-DCF5-4463-B196-AFA8670D67FF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a bladder tumor confined to the subepithelial connective tissue, no regional lymph node involvement, and an unknown metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1bN0MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A0HK-01Z-00-DX1.019036F5-647A-4EC4-8479-F2C100291AEF-1",
+        "image": "TCGA-BRCA/TCGA-BH-A0HK-01Z-00-DX1.019036F5-647A-4EC4-8479-F2C100291AEF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, involvement of movable ipsilateral lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0CQ-01Z-00-DX1.4E5FB4E5-A08C-4C87-A3BE-0640A95AE649-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0CQ-01Z-00-DX1.4E5FB4E5-A08C-4C87-A3BE-0640A95AE649.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a small tumor with no regional lymph node involvement and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D6-A6EK-01Z-00-DX1.E2A056C2-ADEF-4800-86E9-1B95E5FB5F88-1",
+        "image": "TCGA-HNSC/TCGA-D6-A6EK-01Z-00-DX1.E2A056C2-ADEF-4800-86E9-1B95E5FB5F88.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient has a tumor of 2 cm, no distant metastasis, and involvement of 1 to 3 axillary lymph nodes, what would be their TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N1M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DC-5869-01Z-00-DX1.ca8ffa5b-3881-4741-b0e3-5084dd9df536-1",
+        "image": "TCGA-READ/TCGA-DC-5869-01Z-00-DX1.ca8ffa5b-3881-4741-b0e3-5084dd9df536.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient has a tumor larger than 5 cm, no metastasis, and 1 to 3 involved regional lymph nodes, what is the TNM classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-44-A4SS-01Z-00-DX1.F3D85B63-D963-42D2-815F-CB9D791A0F7B-1",
+        "image": "TCGA-LUAD/TCGA-44-A4SS-01Z-00-DX1.F3D85B63-D963-42D2-815F-CB9D791A0F7B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient presents with a tumor less than 2 cm in greatest dimension, non-regional lymph nodes not involved and no distant metastases, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1B N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AO-A0J2-01Z-00-DX1.7C9FEC7B-6040-4C58-9563-D10C0D7AC72E-1",
+        "image": "TCGA-BRCA/TCGA-AO-A0J2-01Z-00-DX1.7C9FEC7B-6040-4C58-9563-D10C0D7AC72E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with an in situ tumor, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is Tis N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A9UI-01Z-00-DX1.271BEF13-444B-42F5-86C3-FF30D7BFD9E0-1",
+        "image": "TCGA-CESC/TCGA-VS-A9UI-01Z-00-DX1.271BEF13-444B-42F5-86C3-FF30D7BFD9E0.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measurements indicating direct extension into the main bronchus, a status of unknown regional lymph node involvement, and unknown distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2b NX MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2H-A9GQ-01Z-00-DX1.97451E5E-1020-4B75-BF2A-7CDF83CD4734-1",
+        "image": "TCGA-ESCA/TCGA-2H-A9GQ-01Z-00-DX1.97451E5E-1020-4B75-BF2A-7CDF83CD4734.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor greater than 5 cm, involvement of 1 to 3 axillary lymph nodes, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-50-5068-01Z-00-DX1.13f1c31e-4d4c-4562-8447-c5bbfbf670a9-1",
+        "image": "TCGA-LUAD/TCGA-50-5068-01Z-00-DX1.13f1c31e-4d4c-4562-8447-c5bbfbf670a9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven a patient has a 3 cm tumor, an unknown metastasis status, and the presence of movable ipsilateral lymph nodes, could you tell me the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2MXN1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1XW-01Z-00-DX2.9849E503-BE3E-417C-ABE8-93A39583DDE0-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1XW-01Z-00-DX2.9849E503-BE3E-417C-ABE8-93A39583DDE0.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-CC-A3MA-01Z-00-DX1.96F9CA78-2690-4FAF-859A-D3D9CCBA98F1-1",
+        "image": "TCGA-LIHC/TCGA-CC-A3MA-01Z-00-DX1.96F9CA78-2690-4FAF-859A-D3D9CCBA98F1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor size of 5 cm, no involvement of lymph nodes, and no evidence of distant metastasis. Can you determine the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-WE-A8K6-06Z-00-DX1.4729CA63-5901-4E06-A9C7-0EFA3551FC6A-1",
+        "image": "TCGA-SKCM/TCGA-WE-A8K6-06Z-00-DX1.4729CA63-5901-4E06-A9C7-0EFA3551FC6A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient's tumor cannot be assessed, there are multiple regional lymph nodes involved, but there are no distant metastases. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is TXN1M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1BD-01Z-00-DX1.A2AFF7AD-ED47-43E4-87FE-62882BAEB8DA-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1BD-01Z-00-DX1.A2AFF7AD-ED47-43E4-87FE-62882BAEB8DA.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring between 2 and 5 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-TS-A8AI-01Z-00-DX1.68C1CAA9-FCF0-42C5-8C6A-A382CD2252BF-1",
+        "image": "TCGA-MESO/TCGA-TS-A8AI-01Z-00-DX1.68C1CAA9-FCF0-42C5-8C6A-A382CD2252BF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor advancing into nearby structures, involvement of movable ipsilateral lymph nodes, and an unknown metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4N1MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EI-6510-01Z-00-DX1.e1209172-b10e-4dca-a714-16960a498cf4-1",
+        "image": "TCGA-READ/TCGA-EI-6510-01Z-00-DX1.e1209172-b10e-4dca-a714-16960a498cf4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, no regional lymph node involvement, and unknown distant metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A8EL-01Z-00-DX1.EF7B6F23-A566-4E2F-9935-28643B7E5357-1",
+        "image": "TCGA-CESC/TCGA-VS-A8EL-01Z-00-DX1.EF7B6F23-A566-4E2F-9935-28643B7E5357.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor 3 cm in greatest dimension, extending to the muscularis propria with no distant metastasis and unknown nodal involvement. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KS-A4I9-01Z-00-DX1.D40436B2-5EDA-42C8-9AC5-EF8FF36DADC9-1",
+        "image": "TCGA-THCA/TCGA-KS-A4I9-01Z-00-DX1.D40436B2-5EDA-42C8-9AC5-EF8FF36DADC9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor infiltrating through the basement membrane, no regional lymph node metastasis, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2X-A9D6-01Z-00-DX1.A6991736-5AF8-41C5-8980-8AD7636FBB3C-1",
+        "image": "TCGA-TGCT/TCGA-2X-A9D6-01Z-00-DX1.A6991736-5AF8-41C5-8980-8AD7636FBB3C.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIn a patient with a tumor measuring 2 cm or less, no distant metastasis, but an unknown number of regional lymph nodes involved, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1M0NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A3JI-01Z-00-DX1.4648812E-2D0A-43DE-9BCF-2D88C312B025-1",
+        "image": "TCGA-SKCM/TCGA-EE-A3JI-01Z-00-DX1.4648812E-2D0A-43DE-9BCF-2D88C312B025.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor approximately 3 cm wide, no lymph node involvement, and zero evidence of distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A181-01Z-00-DX1.B302A50A-0719-4B46-8605-09D8A0FA20B6-1",
+        "image": "TCGA-SKCM/TCGA-EE-A181-01Z-00-DX1.B302A50A-0719-4B46-8605-09D8A0FA20B6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor 5cm in size, no lymph node involvement, and no metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BF-AAP0-01Z-00-DX1.E194AEF2-65FC-47DB-985B-93FF6CA62086-1",
+        "image": "TCGA-SKCM/TCGA-BF-AAP0-01Z-00-DX1.E194AEF2-65FC-47DB-985B-93FF6CA62086.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven a patient with a tumor that has invaded into nearby structures or organs, unknown lymph node involvement and presence of distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4 NX M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EB-A5FP-01Z-00-DX1.59E7B409-5166-4084-A667-EE52BE109A2A-1",
+        "image": "TCGA-SKCM/TCGA-EB-A5FP-01Z-00-DX1.59E7B409-5166-4084-A667-EE52BE109A2A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient has a tumor of any size that is growing into other structures, regional lymph node status cannot be assessed, and distant metastasis is present, what is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4b NX M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EB-A5SH-06Z-00-DX1.2C9CB59B-C09A-487F-BAB7-E71F84DDB985-1",
+        "image": "TCGA-SKCM/TCGA-EB-A5SH-06Z-00-DX1.2C9CB59B-C09A-487F-BAB7-E71F84DDB985.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor that has grown into adjacent organs, no regional lymph node involvement, and absence of distant metastasis, could you provide the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-49-AAR3-01Z-00-DX1.B4D85F13-CEB4-46DA-BF39-0200B9E55835-1",
+        "image": "TCGA-LUAD/TCGA-49-AAR3-01Z-00-DX1.B4D85F13-CEB4-46DA-BF39-0200B9E55835.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for this patient who has a tumor measuring 3 cm, no sign of nodal involvement, and distant metastasis unidentified?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 MX N1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1X7-01Z-00-DX1.3529AEED-2827-4D94-9A8B-32F116EE49D5-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1X7-01Z-00-DX1.3529AEED-2827-4D94-9A8B-32F116EE49D5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 4 cm tumor, no regional lymph node involvement, and unknown metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A423-01Z-00-DX1.31502D62-9C83-4A9C-9682-05A185486EAA-1",
+        "image": "TCGA-BRCA/TCGA-EW-A423-01Z-00-DX1.31502D62-9C83-4A9C-9682-05A185486EAA.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 5 cm tumor, no regional lymph node involvement, and the presence of distant metastasis status is unknown. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-5R-AAAM-01Z-00-DX1.827D5EA8-7603-4F83-B6C1-32DC9F56D7B8-1",
+        "image": "TCGA-LIHC/TCGA-5R-AAAM-01Z-00-DX1.827D5EA8-7603-4F83-B6C1-32DC9F56D7B8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a tumor measuring 3 cm, no regional lymph node involvement, and no evidence of distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A183-01Z-00-DX1.7A69310E-0011-48BD-A0CF-FA9385D1D00A-1",
+        "image": "TCGA-SKCM/TCGA-EE-A183-01Z-00-DX1.7A69310E-0011-48BD-A0CF-FA9385D1D00A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 0.5 cm tumor, no lymph node involvement, and no metastasis detected?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A9UP-01Z-00-DX1.D5A56C98-7E32-47B5-B918-98A5D730C276-1",
+        "image": "TCGA-CESC/TCGA-VS-A9UP-01Z-00-DX1.D5A56C98-7E32-47B5-B918-98A5D730C276.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you determine the TNM staging for a patient who has a tumor that's invading muscle with no lymph node involvement, and uncertain metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2a N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A15P-01Z-00-DX1.4C7F95DC-B319-4A78-8F34-8CB9166EA6A8-1",
+        "image": "TCGA-BRCA/TCGA-E2-A15P-01Z-00-DX1.4C7F95DC-B319-4A78-8F34-8CB9166EA6A8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that is 2 cm or less in greatest dimension, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BA-4074-01Z-00-DX1.937DC1B1-C9A4-4E67-B5FD-A0C0C60D2628-1",
+        "image": "TCGA-HNSC/TCGA-BA-4074-01Z-00-DX1.937DC1B1-C9A4-4E67-B5FD-A0C0C60D2628.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a 2-5 cm tumor size, no distant metastasis, and fixation of ipsilateral lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A1IW-01Z-00-DX1.0DE87057-951F-4887-A2D5-485736D66E4E-1",
+        "image": "TCGA-BRCA/TCGA-EW-A1IW-01Z-00-DX1.0DE87057-951F-4887-A2D5-485736D66E4E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 5 cm, involvement of movable ipsilateral lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ER-A42L-06Z-00-DX1.EFC23C96-F0A5-4ADA-BE77-11B967531BEC-1",
+        "image": "TCGA-SKCM/TCGA-ER-A42L-06Z-00-DX1.EFC23C96-F0A5-4ADA-BE77-11B967531BEC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 7 cm, no involvement of lymph nodes, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EL-A4JZ-01Z-00-DX1.E7D26ECB-3EE9-4364-95C8-9C2419467CFB-1",
+        "image": "TCGA-THCA/TCGA-EL-A4JZ-01Z-00-DX1.E7D26ECB-3EE9-4364-95C8-9C2419467CFB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor measuring over 5 cm, one regional lymph node affected, and no reported distant metastasis - what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-97-7938-01Z-00-DX1.d774d0a2-ee34-43ba-9d9d-34bf9718292e-1",
+        "image": "TCGA-LUAD/TCGA-97-7938-01Z-00-DX1.d774d0a2-ee34-43ba-9d9d-34bf9718292e.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor that is 2 cm or less in greatest dimension, no regional lymph node involvement, and an unknown distant metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1AMXN0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A2JA-06Z-00-DX1.B2D576DF-C876-4385-9F85-23ACBDF30AF7-1",
+        "image": "TCGA-SKCM/TCGA-D3-A2JA-06Z-00-DX1.B2D576DF-C876-4385-9F85-23ACBDF30AF7.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor less than 2cm in size (T2A), no sign of distant metastasis (M0), and the smallest number of lymph nodes involved (N1A). What's the patient's TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2A N1A M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A957-01Z-00-DX1.FE01C75F-EAF4-4421-A250-E083BC1AFB14-1",
+        "image": "TCGA-CESC/TCGA-VS-A957-01Z-00-DX1.FE01C75F-EAF4-4421-A250-E083BC1AFB14.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor no larger than 0.5 cm at its largest area, with subdermal lymph node involvement, but uncertain metastasis status and regional lymph nodes cannot be assessed?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N1 MX NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AQ-A04L-01Z-00-DX1.F35BF4DD-896A-43C2-8DA6-C67945C003BE-1",
+        "image": "TCGA-BRCA/TCGA-AQ-A04L-01Z-00-DX1.F35BF4DD-896A-43C2-8DA6-C67945C003BE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor of unspecified size with no regional lymph node involvement and unknown distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-F5-6571-01Z-00-DX1.2de5bae1-22da-460a-bb94-c4f74d92300e-1",
+        "image": "TCGA-READ/TCGA-F5-6571-01Z-00-DX1.2de5bae1-22da-460a-bb94-c4f74d92300e.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven a patient with a tumor larger than 4 cm but not greater than 7 cm, no involvement of the lymph nodes, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A6S9-01Z-00-DX1.4A8CD2D4-D528-465C-82DC-9CAE35DD424B-1",
+        "image": "TCGA-BRCA/TCGA-EW-A6S9-01Z-00-DX1.4A8CD2D4-D528-465C-82DC-9CAE35DD424B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor of unknown size, involvement of 1 to 3 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1c N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A2A0-06Z-00-DX1.270C855C-3B9F-4927-ABDA-35829213FFDF-1",
+        "image": "TCGA-SKCM/TCGA-EE-A2A0-06Z-00-DX1.270C855C-3B9F-4927-ABDA-35829213FFDF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 7 cm tumor, no lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3aN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E9-A1NI-01Z-00-DX1.AF90ACEF-EDED-40E6-955B-80ACC49778F9-1",
+        "image": "TCGA-BRCA/TCGA-E9-A1NI-01Z-00-DX1.AF90ACEF-EDED-40E6-955B-80ACC49778F9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A0U3-01Z-00-DX1.9BB87F9D-459F-4A18-B591-29822EA5AE18-1",
+        "image": "TCGA-BRCA/TCGA-AR-A0U3-01Z-00-DX1.9BB87F9D-459F-4A18-B591-29822EA5AE18.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, involvement of movable ipsilateral lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A0E9-01Z-00-DX1.5FC4A5E1-3984-4869-9FFB-C0C7F9EAF5FE-1",
+        "image": "TCGA-BRCA/TCGA-BH-A0E9-01Z-00-DX1.5FC4A5E1-3984-4869-9FFB-C0C7F9EAF5FE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, involvement of a single ipsilateral lymph node, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FS-A1ZD-06Z-00-DX2.B2BF872D-1690-49FC-A8E7-921AA5F60A26-1",
+        "image": "TCGA-SKCM/TCGA-FS-A1ZD-06Z-00-DX2.B2BF872D-1690-49FC-A8E7-921AA5F60A26.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that extends into the visceral pleura, no lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A095-01Z-00-DX1.97072E53-7323-4836-9D58-22B7C346A7CE-1",
+        "image": "TCGA-BRCA/TCGA-A8-A095-01Z-00-DX1.97072E53-7323-4836-9D58-22B7C346A7CE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a primary tumor that is localized and small, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2G-AAFJ-01Z-00-DX1.B031D0BE-3B47-47BC-BBC9-35F8C60262F5-1",
+        "image": "TCGA-TGCT/TCGA-2G-AAFJ-01Z-00-DX1.B031D0BE-3B47-47BC-BBC9-35F8C60262F5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor that is 2 cm or less in greatest dimension, no lymph node involvement, and no apparent distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-86-7714-01Z-00-DX1.8ee03c3b-013e-4dd5-aa0e-9c1a771cbdc5-1",
+        "image": "TCGA-LUAD/TCGA-86-7714-01Z-00-DX1.8ee03c3b-013e-4dd5-aa0e-9c1a771cbdc5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor measuring 1 cm or less, no distant metastasis, and metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-44-7662-01Z-00-DX1.2f0b6cea-795a-40ad-93a9-319858e6fb3b-1",
+        "image": "TCGA-LUAD/TCGA-44-7662-01Z-00-DX1.2f0b6cea-795a-40ad-93a9-319858e6fb3b.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the patient has a tumor less than 2 cm, no lymph node involvement, and an unknown metastasis status, what would be the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2a N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E9-A228-01Z-00-DX1.adbeed20-3b14-44fe-a98a-3bf7cecea30a-1",
+        "image": "TCGA-BRCA/TCGA-E9-A228-01Z-00-DX1.adbeed20-3b14-44fe-a98a-3bf7cecea30a.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 4 cm tumor, involvement of 1 to 3 regional lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A2JC-06Z-00-DX1.C5D339EB-672E-41B5-BB6F-008D22E84E1B-1",
+        "image": "TCGA-SKCM/TCGA-D3-A2JC-06Z-00-DX1.C5D339EB-672E-41B5-BB6F-008D22E84E1B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has no evident tumor, involvement of 4 to 9 axillary lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T0 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1XS-01Z-00-DX1.E5C78E5A-947C-499D-9E95-619FEEC63E69-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1XS-01Z-00-DX1.E5C78E5A-947C-499D-9E95-619FEEC63E69.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, involvement of more than four regional lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EB-A5KH-06Z-00-DX1.BBB3714B-4514-437F-BD3F-72783EC861C3-1",
+        "image": "TCGA-SKCM/TCGA-EB-A5KH-06Z-00-DX1.BBB3714B-4514-437F-BD3F-72783EC861C3.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient exhibits no evidence of a primary tumor, no distant metastasis, but has metastasis in 1 to 3 axillary lymph nodes. Could you classify the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T0 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A1Q7-06Z-00-DX1.25BEC48C-7909-4D71-B428-F25F8105C409-1",
+        "image": "TCGA-SKCM/TCGA-D3-A1Q7-06Z-00-DX1.25BEC48C-7909-4D71-B428-F25F8105C409.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a superficial tumor that invades into the lamina propria, no regional lymph nodes involvement, and no distant metastasis, what's his TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VS-A8EH-01Z-00-DX1.4AB67191-5014-4728-A4D8-C12B5A7F0A42-1",
+        "image": "TCGA-CESC/TCGA-VS-A8EH-01Z-00-DX1.4AB67191-5014-4728-A4D8-C12B5A7F0A42.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor up to 5 cm in greatest dimension, experiencing bone metastasis, and unknown regional lymph node involvement?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3BM0NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-86-8074-01Z-00-DX1.0c34b434-8701-4060-a4ea-08a72371ee1e-1",
+        "image": "TCGA-LUAD/TCGA-86-8074-01Z-00-DX1.0c34b434-8701-4060-a4ea-08a72371ee1e.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that is 0.8mm big, confirmed lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-QK-A8ZA-01Z-00-DX1.D169F19F-99A3-4A8C-9AE8-24C529B2CE12-1",
+        "image": "TCGA-HNSC/TCGA-QK-A8ZA-01Z-00-DX1.D169F19F-99A3-4A8C-9AE8-24C529B2CE12.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient presents with a tumor 5 cm in size, metastasis status is unknown, and more than three axillary lymph nodes are involved, what is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2MXN2B."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2G-AAGO-01Z-00-DX1.EC4C1DBC-3147-4DDD-8293-22C2F36E3123-1",
+        "image": "TCGA-TGCT/TCGA-2G-AAGO-01Z-00-DX1.EC4C1DBC-3147-4DDD-8293-22C2F36E3123.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that is 3 cm, no lymph node involvement, and no detected distant metastasis. Can you determine the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A09W-01Z-00-DX1.BF33B0F9-5786-4682-B59E-DCBD33D7BB03-1",
+        "image": "TCGA-BRCA/TCGA-A8-A09W-01Z-00-DX1.BF33B0F9-5786-4682-B59E-DCBD33D7BB03.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, involvement of more than 4 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1LK-01Z-00-DX1.5EBAA1F4-F1B4-4938-A51F-0246621BB0ED-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1LK-01Z-00-DX1.5EBAA1F4-F1B4-4938-A51F-0246621BB0ED.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a large tumor, involvement of more than 10 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4 N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2G-AAGX-01Z-00-DX1.3873A13F-3C1D-4227-9F49-7C42596CF330-1",
+        "image": "TCGA-TGCT/TCGA-2G-AAGX-01Z-00-DX1.3873A13F-3C1D-4227-9F49-7C42596CF330.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor not larger than 2 cm, no lymph node involvement, and no distant metastasis, what would the TNM staging be?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A3FM-01Z-00-DX1.3EF4F9FB-1FD7-4434-A3DC-BDBE4551399E-1",
+        "image": "TCGA-THCA/TCGA-EM-A3FM-01Z-00-DX1.3EF4F9FB-1FD7-4434-A3DC-BDBE4551399E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a 3 cm tumor, metastasis status is unknown, and there is evidence of involvement in one ipsilateral below diaphragm lymph node. What is the TNM staging for the patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 MX N1B."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-SC-A6LM-01Z-00-DX2.C1D6F813-9E5B-4AF2-B579-2DF46384C098-1",
+        "image": "TCGA-MESO/TCGA-SC-A6LM-01Z-00-DX2.C1D6F813-9E5B-4AF2-B579-2DF46384C098.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor of any size invading adjacent organs, no distant metastasis, and unknown nodal status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4M0NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A09B-01Z-00-DX1.97CCDA89-AB73-4F05-A900-668160227B78-1",
+        "image": "TCGA-BRCA/TCGA-A8-A09B-01Z-00-DX1.97CCDA89-AB73-4F05-A900-668160227B78.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a large tumor (>5 cm), involvement of ipsilateral axillary lymph nodes that are mobile, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4b N1a M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-B6-A0RQ-01Z-00-DX1.68B4F49D-9F81-4501-BC66-0349012077C8-1",
+        "image": "TCGA-BRCA/TCGA-B6-A0RQ-01Z-00-DX1.68B4F49D-9F81-4501-BC66-0349012077C8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 6 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-55-8087-01Z-00-DX1.548f2800-8caf-4c0e-a7b5-6d3d28315d9c-1",
+        "image": "TCGA-LUAD/TCGA-55-8087-01Z-00-DX1.548f2800-8caf-4c0e-a7b5-6d3d28315d9c.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor that penetrates the visceral peritoneum, no lymph nodes involved and unknown metastasis status, what would be the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2a N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A26J-01Z-00-DX1.86A92FBD-F346-4206-A1BE-0CBA1596135F-1",
+        "image": "TCGA-BRCA/TCGA-A7-A26J-01Z-00-DX1.86A92FBD-F346-4206-A1BE-0CBA1596135F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A3DW-01Z-00-DX1.02B1407D-BD72-42C1-A8D4-85D7F14CC3F1-1",
+        "image": "TCGA-THCA/TCGA-ET-A3DW-01Z-00-DX1.02B1407D-BD72-42C1-A8D4-85D7F14CC3F1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient is found to have a 3 cm tumor, movable axillary lymph nodes, and the status of metastasis is unknown. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VR-A8EO-01Z-00-DX1.34D04FE6-3C6B-4F9B-8A89-3A3AAC25205B-1",
+        "image": "TCGA-ESCA/TCGA-VR-A8EO-01Z-00-DX1.34D04FE6-3C6B-4F9B-8A89-3A3AAC25205B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 5cm but smaller than 7cm, without regional lymph node involvement or distant metastasis, what is the TNM stage?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D6-A6EQ-01Z-00-DX1.E6CEA0DA-E05E-416F-B876-30398A9C17C5-1",
+        "image": "TCGA-HNSC/TCGA-D6-A6EQ-01Z-00-DX1.E6CEA0DA-E05E-416F-B876-30398A9C17C5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you determine the TNM staging for a patient who has a tumor growing into the nearby structures, no distant metastasis, and metastasis in 1-3 axillary lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4a N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KO-8406-01Z-00-DX1.F9FDAB2C-9EEC-41D0-A29C-530107B96AC2-1",
+        "image": "TCGA-KICH/TCGA-KO-8406-01Z-00-DX1.F9FDAB2C-9EEC-41D0-A29C-530107B96AC2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor measuring 2 cm, no lymph node involvement, and no distant metastasis. Could you determine the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A250-01Z-00-DX1.572A2F73-6BF5-4932-BFEF-4B8904755ACF-1",
+        "image": "TCGA-BRCA/TCGA-AR-A250-01Z-00-DX1.572A2F73-6BF5-4932-BFEF-4B8904755ACF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor measuring 3 cm, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A23C-01Z-00-DX1.0E67C785-83D3-49AF-B600-FB5B909AE6ED-1",
+        "image": "TCGA-BRCA/TCGA-AC-A23C-01Z-00-DX1.0E67C785-83D3-49AF-B600-FB5B909AE6ED.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 4 cm, involvement of 1 to 3 regional lymph nodes, and unknown metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OL-A66I-01Z-00-DX1.8CE9DCAB-98D3-4163-94AC-1557D86C1E25-1",
+        "image": "TCGA-BRCA/TCGA-OL-A66I-01Z-00-DX1.8CE9DCAB-98D3-4163-94AC-1557D86C1E25.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor of unspecified size, involvement of ipsilateral lymph nodes, and confirmed distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1C N1 M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A426-01Z-00-DX1.3058E873-9442-4872-80DA-E8A5B35054D2-1",
+        "image": "TCGA-BRCA/TCGA-A7-A426-01Z-00-DX1.3058E873-9442-4872-80DA-E8A5B35054D2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring over 5 cm, involvement of 10 or more regional lymph nodes, and unknown metastasis status. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N3 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A2GJ-01Z-00-DX1.8B3B8765-AA75-47E6-80F1-8638D484185C-1",
+        "image": "TCGA-SKCM/TCGA-EE-A2GJ-01Z-00-DX1.8B3B8765-AA75-47E6-80F1-8638D484185C.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a carcinoma in situ which measures under 2 cm, no metastasis, and zero affected lymph nodes. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1a N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-78-7147-01Z-00-DX1.a9fd2c5d-b8f3-4524-bd64-6c3362ce373b-1",
+        "image": "TCGA-LUAD/TCGA-78-7147-01Z-00-DX1.a9fd2c5d-b8f3-4524-bd64-6c3362ce373b.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould you provide the TNM staging for a patient with a 3 cm tumor, presence of metastatic lymph nodes, but no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AG-3725-01Z-00-DX1.86CF8220-F410-49E4-A840-E42AE8C5D8B2-1",
+        "image": "TCGA-READ/TCGA-AG-3725-01Z-00-DX1.86CF8220-F410-49E4-A840-E42AE8C5D8B2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor larger than 5cm, metastasis not found and involvement of 4 to 9 axillary lymph nodes?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3N2M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A13Y-01Z-00-DX1.02321E77-A11E-41A5-95FE-BB897EA5CE58-1",
+        "image": "TCGA-BRCA/TCGA-D8-A13Y-01Z-00-DX1.02321E77-A11E-41A5-95FE-BB897EA5CE58.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 2 cm, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A3DQ-01Z-00-DX1.A9648057-5AC1-4A77-9A82-846BF4D5804E-1",
+        "image": "TCGA-THCA/TCGA-ET-A3DQ-01Z-00-DX1.A9648057-5AC1-4A77-9A82-846BF4D5804E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a tumor that is less than or equal to 2 cm in greatest dimension, no regional lymph node involvement, and indeterminate distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1MXN0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C5-A7X8-01Z-00-DX1.868FD898-B9FA-4A24-AC99-1B81D8A456B4-1",
+        "image": "TCGA-CESC/TCGA-C5-A7X8-01Z-00-DX1.868FD898-B9FA-4A24-AC99-1B81D8A456B4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat would be the TNM staging for a patient with a mucosa-confined tumor, one regional lymph node involvement, and no metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2a N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-J8-A3O0-01Z-00-DX1.7A1C387C-5853-4F29-B64B-8E54C248A1F2-1",
+        "image": "TCGA-THCA/TCGA-J8-A3O0-01Z-00-DX1.7A1C387C-5853-4F29-B64B-8E54C248A1F2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe patient's tumor is 3 cm in size, no lymph nodes are affected, and there is no distant metastasis. What is the TNM staging for him?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A3CB-06Z-00-DX1.9862D604-C9E7-44BE-99E2-AB9883B1873E-1",
+        "image": "TCGA-SKCM/TCGA-D3-A3CB-06Z-00-DX1.9862D604-C9E7-44BE-99E2-AB9883B1873E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient's tumor is 3 cm, with no regional lymph node involvement, and no distant metastasis. What is this patient's TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-MP-A4T4-01Z-00-DX1.5F72FF0B-59C0-4E95-A8C1-BF22A948F7AC-1",
+        "image": "TCGA-LUAD/TCGA-MP-A4T4-01Z-00-DX1.5F72FF0B-59C0-4E95-A8C1-BF22A948F7AC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents a 3 cm tumor, a metastasis absence, and metastatic presence in 1 regional lymph node. What is the TNM staging for this person?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KM-8477-01Z-00-DX1.5419F74B-EE1C-47C3-A5A7-B22768E613A8-1",
+        "image": "TCGA-KICH/TCGA-KM-8477-01Z-00-DX1.5419F74B-EE1C-47C3-A5A7-B22768E613A8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 2 cm tumor that has extended to the submucosa, and unspecified involvement of regional lymph nodes and distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1a MX NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2Y-A9H1-01Z-00-DX1.FE4D124E-AB92-4083-8D09-F025B0C637EB-1",
+        "image": "TCGA-LIHC/TCGA-2Y-A9H1-01Z-00-DX1.FE4D124E-AB92-4083-8D09-F025B0C637EB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient's tumor measures less than 2 cm. The metastasis and regional lymph node statuses are unknown. How would you classify this according to the TNM staging system?"
+            },
+            {
+                "from": "gpt",
+                "value": "This patient's TNM staging is T1MXNX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AO-A1KR-01Z-00-DX1.BFB2E69B-E23C-4542-9CBF-EDD040B985AC-1",
+        "image": "TCGA-BRCA/TCGA-AO-A1KR-01Z-00-DX1.BFB2E69B-E23C-4542-9CBF-EDD040B985AC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 3 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AG-3605-01Z-00-DX1.27c26401-3e5b-484d-946d-0f508b979572-1",
+        "image": "TCGA-READ/TCGA-AG-3605-01Z-00-DX1.27c26401-3e5b-484d-946d-0f508b979572.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a 7cm tumor, regional lymph node involvement, and distant metastasis, what would be their TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N1 M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A2JD-06Z-00-DX1.B6DBA83D-6C77-4F73-87B8-30487C8AB7C1-1",
+        "image": "TCGA-SKCM/TCGA-D3-A2JD-06Z-00-DX1.B6DBA83D-6C77-4F73-87B8-30487C8AB7C1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that has extended to involve other organs, presence of multiple distant lymph node metastases, but no distant metastasis. Can you determine the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The patient's TNM staging is T4b N1b M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-IQ-A61K-01Z-00-DX1.92AE10A1-0F59-48DD-A259-6C1B9BD63689-1",
+        "image": "TCGA-HNSC/TCGA-IQ-A61K-01Z-00-DX1.92AE10A1-0F59-48DD-A259-6C1B9BD63689.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor larger than 5cm, multiple lymph nodes involved, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BA-A6DF-01Z-00-DX1.AAA638F5-C794-441B-A034-30AD8CC72573-1",
+        "image": "TCGA-HNSC/TCGA-BA-A6DF-01Z-00-DX1.AAA638F5-C794-441B-A034-30AD8CC72573.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor of any size extending to other organs, with no regional lymph node involvement, and no distant metastasis, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4a N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OL-A5RY-01Z-00-DX1.AE4E9D74-FC1C-4C1E-AE6D-5DF38899BBA6-1",
+        "image": "TCGA-BRCA/TCGA-OL-A5RY-01Z-00-DX1.AE4E9D74-FC1C-4C1E-AE6D-5DF38899BBA6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor size not specified, involvement of ipsilateral lymph nodes, and unknown distant metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1c N1 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-A1EC-01Z-00-DX1.3F1B660A-0AD8-4EC9-8830-3BDF86677315-1",
+        "image": "TCGA-LIHC/TCGA-DD-A1EC-01Z-00-DX1.3F1B660A-0AD8-4EC9-8830-3BDF86677315.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor less than 2 cm, no lymph nodes involve, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FY-A4B0-01Z-00-DX1.719BC1BA-60B7-475C-A83C-EFA77B23BE17-1",
+        "image": "TCGA-THCA/TCGA-FY-A4B0-01Z-00-DX1.719BC1BA-60B7-475C-A83C-EFA77B23BE17.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a carcinoma in situ less than 1 cm, no involvement of regional lymph nodes, and unknown distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1a Mx Nx."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D3-A1Q1-06Z-00-DX1.7E87AE47-8145-464D-AFBC-82DEAC42F492-1",
+        "image": "TCGA-SKCM/TCGA-D3-A1Q1-06Z-00-DX1.7E87AE47-8145-464D-AFBC-82DEAC42F492.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient who has a tumor less than 0.5 mm thick, no distant metastasis, but has metastasis in more than 10 regional lymph nodes, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1b N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C8-A130-01Z-00-DX1.F6810204-C35A-4461-A18A-0A117739B988-1",
+        "image": "TCGA-BRCA/TCGA-C8-A130-01Z-00-DX1.F6810204-C35A-4461-A18A-0A117739B988.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring over 5 cm, involvement of 4 to 9 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A2GD-01Z-00-DX1.5B1A9F5D-96DC-4E66-9162-A58564B06322-1",
+        "image": "TCGA-SKCM/TCGA-EE-A2GD-01Z-00-DX1.5B1A9F5D-96DC-4E66-9162-A58564B06322.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor extending to nearby structures, no regional lymph node involvement, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4M0N0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A0DZ-01Z-00-DX1.138BAEC2-589E-4960-B94E-DF48DDAA5490-1",
+        "image": "TCGA-BRCA/TCGA-BH-A0DZ-01Z-00-DX1.138BAEC2-589E-4960-B94E-DF48DDAA5490.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 3 cm tumor, involvement of 1 to 3 axillary lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-55-A492-01Z-00-DX1.31B23842-7F8B-4311-88DF-C51CB4F54AED-1",
+        "image": "TCGA-LUAD/TCGA-55-A492-01Z-00-DX1.31B23842-7F8B-4311-88DF-C51CB4F54AED.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a carcinoma in situ measuring 2 mm, no lymph node involved and unknown metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1a N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-55-7815-01Z-00-DX1.288408e6-f6b3-4de4-a1ce-cb2498d9d46d-1",
+        "image": "TCGA-LUAD/TCGA-55-7815-01Z-00-DX1.288408e6-f6b3-4de4-a1ce-cb2498d9d46d.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor size less than 2 cm, no lymph node involvement, and unknown metastasis status. What is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2a N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-99-8033-01Z-00-DX1.06f8ca81-c0a7-4ab5-b2fe-d5fc6671e29d-1",
+        "image": "TCGA-LUAD/TCGA-99-8033-01Z-00-DX1.06f8ca81-c0a7-4ab5-b2fe-d5fc6671e29d.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that cannot be evaluated, metastasis to distant sites, and an unknown number of lymph nodes involved. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is TX M1 NX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-G3-A25W-01Z-00-DX1.F5423764-6A48-46C3-8967-99B845524860-1",
+        "image": "TCGA-LIHC/TCGA-G3-A25W-01Z-00-DX1.F5423764-6A48-46C3-8967-99B845524860.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient who has a tumor over 5 cm in the greatest dimension, no regional lymph node metastasis and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DD-A1EA-01Z-00-DX1.7B151113-D27D-44F0-9E58-2046DAA83810-1",
+        "image": "TCGA-LIHC/TCGA-DD-A1EA-01Z-00-DX1.7B151113-D27D-44F0-9E58-2046DAA83810.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor size of 3 cm, no involvement of regional lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1XL-01Z-00-DX2.FDE2C80D-5DC4-4743-A180-C5AFC5BB0BE2-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1XL-01Z-00-DX2.FDE2C80D-5DC4-4743-A180-C5AFC5BB0BE2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, involvement of movable ipsilateral lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A4RW-01Z-00-DX1.4AF8656E-2478-4895-8C59-B0C969F3E474-1",
+        "image": "TCGA-BRCA/TCGA-A2-A4RW-01Z-00-DX1.4AF8656E-2478-4895-8C59-B0C969F3E474.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 3 cm, involvement of more than 6 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-CV-A468-01Z-00-DX1.4AAA23F8-C254-4076-98B3-FFC78D3CC66A-1",
+        "image": "TCGA-HNSC/TCGA-CV-A468-01Z-00-DX1.4AAA23F8-C254-4076-98B3-FFC78D3CC66A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor that extends beyond the primary organ to directly invade other adjacent organs, no distant metastasis, and metastasis in 4 to 9 axillary lymph nodes. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4a N2a M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-ET-A3DO-01Z-00-DX1.1AD06D3D-E50E-4724-8554-F05F329EBFFC-1",
+        "image": "TCGA-THCA/TCGA-ET-A3DO-01Z-00-DX1.1AD06D3D-E50E-4724-8554-F05F329EBFFC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIf a patient is reported to have a tumor that is 3 cm, no lymph node involvement but with an unknown distant metastasis, what would be the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EM-A3OA-01Z-00-DX1.6EDE47B4-8926-4598-AB68-439590DE7CA8-1",
+        "image": "TCGA-THCA/TCGA-EM-A3OA-01Z-00-DX1.6EDE47B4-8926-4598-AB68-439590DE7CA8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 3 cm, no lymph node involvement, and unknown distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2MXN0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-G3-A25U-01Z-00-DX1.58E9FA46-A94E-4DD6-8F36-DC893DD8BB80-1",
+        "image": "TCGA-LIHC/TCGA-G3-A25U-01Z-00-DX1.58E9FA46-A94E-4DD6-8F36-DC893DD8BB80.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient with a 2 cm tumor, no lymph node involvement, and no distant metastasis has come in. Can you indicate the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A27K-01Z-00-DX1.25AF7928-046B-45BF-BAD6-F34156203F5A-1",
+        "image": "TCGA-BRCA/TCGA-D8-A27K-01Z-00-DX1.25AF7928-046B-45BF-BAD6-F34156203F5A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 5 cm tumor, involvement of 1 to 3 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N1 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A8-A07S-01Z-00-DX1.34AFF327-E7FD-49E1-B918-0C09129581FB-1",
+        "image": "TCGA-BRCA/TCGA-A8-A07S-01Z-00-DX1.34AFF327-E7FD-49E1-B918-0C09129581FB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, no regional lymph node involvement, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-C5-A1M5-01Z-00-DX1.37D62003-2428-42E7-8396-72C3C04F7E68-1",
+        "image": "TCGA-CESC/TCGA-C5-A1M5-01Z-00-DX1.37D62003-2428-42E7-8396-72C3C04F7E68.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient with a tumor under 1cm that has not spread to any lymph nodes or distant sites, what is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1bN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BB-4223-01Z-00-DX1.8806b83e-910f-4ee8-aa83-f84e3d13155f-1",
+        "image": "TCGA-HNSC/TCGA-BB-4223-01Z-00-DX1.8806b83e-910f-4ee8-aa83-f84e3d13155f.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for someone who has a tumor larger than 2cm but no larger than 5cm, 4 to 9 axillary lymph nodes affected, but no identified distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N2b M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2H-A9GJ-01Z-00-DX1.F6CC7FC9-85DB-4791-B367-312F1AA3CDA2-1",
+        "image": "TCGA-ESCA/TCGA-2H-A9GJ-01Z-00-DX1.F6CC7FC9-85DB-4791-B367-312F1AA3CDA2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor less than 2 cm, no lymph node involvement and no signs of distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T1N0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-78-7155-01Z-00-DX1.32258467-7550-4a1b-8df9-a869fb83e559-1",
+        "image": "TCGA-LUAD/TCGA-78-7155-01Z-00-DX1.32258467-7550-4a1b-8df9-a869fb83e559.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor measuring 2 cm, no recorded regional lymph node spread, and no evident distant metastases. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-W3-AA1V-01Z-00-DX1.86F0DF30-1FB8-4316-8126-0C6CCF82A06E-1",
+        "image": "TCGA-SKCM/TCGA-W3-AA1V-01Z-00-DX1.86F0DF30-1FB8-4316-8126-0C6CCF82A06E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe patient has a tumor larger than 4 cm, no takeover of regional lymph nodes, and no distant metastasis. What is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3 N0 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FR-A44A-01Z-00-DX1.CFAA3A41-8E06-499C-8C1C-CC1B254154D1-1",
+        "image": "TCGA-SKCM/TCGA-FR-A44A-01Z-00-DX1.CFAA3A41-8E06-499C-8C1C-CC1B254154D1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis patient presents with a tumor that is advancing into the muscle without spreading, no involvement of regional lymph nodes, and no distant metastasis. What is the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T3aN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AO-A0J5-01Z-00-DX1.20C14D0C-1A74-4FE9-A5E6-BDDCB8DE7714-1",
+        "image": "TCGA-BRCA/TCGA-AO-A0J5-01Z-00-DX1.20C14D0C-1A74-4FE9-A5E6-BDDCB8DE7714.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor larger than 5 cm, involvement of 1 to 3 regional lymph nodes, and distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T4 N1 M1."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A1Y3-01Z-00-DX2.B9BD14AF-52A6-4241-B3B3-03F8F5DFC8DA-1",
+        "image": "TCGA-BRCA/TCGA-D8-A1Y3-01Z-00-DX2.B9BD14AF-52A6-4241-B3B3-03F8F5DFC8DA.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a tumor of unspecified size, involvement of 4 to 9 regional lymph nodes, and unknown distant metastasis status?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N2a MX."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-LD-A7W5-01Z-00-DX1.C9920081-C2FE-461E-AEF8-625D4A95BE2F-1",
+        "image": "TCGA-BRCA/TCGA-LD-A7W5-01Z-00-DX1.C9920081-C2FE-461E-AEF8-625D4A95BE2F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the TNM staging for a patient with a 4 cm tumor, metastasis in 10 or more regional lymph nodes, and no distant metastasis?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N3 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AN-A0XT-01Z-00-DX1.882AF4CE-62A1-4808-9B4B-780066E5E602-1",
+        "image": "TCGA-BRCA/TCGA-AN-A0XT-01Z-00-DX1.882AF4CE-62A1-4808-9B4B-780066E5E602.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a 4 cm tumor, involvement of 4 to 9 regional lymph nodes, and no distant metastasis. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N2 M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-55-8616-01Z-00-DX1.4F53B2AB-8221-4E67-80D2-7A8E3815B730-1",
+        "image": "TCGA-LUAD/TCGA-55-8616-01Z-00-DX1.4F53B2AB-8221-4E67-80D2-7A8E3815B730.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient presents with a tumor that's less than 2cm in the greatest dimension, superficial muscle layer invasion, no lymph node involvement, and no distant metastases. Can you determine the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the information, the TNM staging for this patient is T2aN0M0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-KM-8443-01Z-00-DX1.A97D876A-6453-4335-B805-C54529D3915F-1",
+        "image": "TCGA-KICH/TCGA-KM-8443-01Z-00-DX1.A97D876A-6453-4335-B805-C54529D3915F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFor a patient who has a tumor measuring 3 cm, no regional lymph node involvement, but with an unknown metastatic state, what would be the TNM staging?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2MXN0."
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EE-A20H-01Z-00-DX1.A3C962A3-98DD-4952-AA0D-EEBB1F561D5D-1",
+        "image": "TCGA-SKCM/TCGA-EE-A20H-01Z-00-DX1.A3C962A3-98DD-4952-AA0D-EEBB1F561D5D.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nA patient has a tumor measuring 3 cm, no lymph nodes are involved, and no distant metastasis has been detected. What is the TNM staging for this patient?"
+            },
+            {
+                "from": "gpt",
+                "value": "The TNM staging for this patient is T2 N0 M0."
+            }
+        ]
+    }
+]

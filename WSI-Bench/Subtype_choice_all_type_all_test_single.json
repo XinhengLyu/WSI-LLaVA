@@ -1,0 +1,674 @@
+[
+    {
+        "id": "TCGA-D8-A27W-01Z-00-DX1.CE2D4FEA-284C-44AF-A70F-7956D91CCB29-1",
+        "image": "TCGA-BRCA/TCGA-D8-A27W-01Z-00-DX1.CE2D4FEA-284C-44AF-A70F-7956D91CCB29.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nImmunohistochemical analysis reveals estrogen receptors present in over 75% of neoplastic cell nuclei, progesterone receptors in less than 10%, and a recommendation for HER2 protein score verification. What is the molecular subtype of this breast cancer? A) Luminal A   B) HER2-enriched   C) Basal   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-OL-A5S0-01Z-00-DX1.49A7AC9D-C186-406C-BA67-2D73DE82E13B-1",
+        "image": "TCGA-BRCA/TCGA-OL-A5S0-01Z-00-DX1.49A7AC9D-C186-406C-BA67-2D73DE82E13B.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWith immunohistochemical results showing weak expression of ER in 30% of invasive tumor nuclei, no PR expression, a 50% Ki-67 proliferation rate, and amplified Her2/neu antigen, what is the molecular subtype of this breast cancer? A) Luminal A   B) Luminal B   C) HER2-enriched   D) Basal"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DB-5278-01Z-00-DX1.3B0317D3-8C14-4C70-B60B-2153E89056BF-1",
+        "image": "TCGA-LGG/TCGA-DB-5278-01Z-00-DX1.3B0317D3-8C14-4C70-B60B-2153E89056BF.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC result showing a low MIB-1 labeling index and FISH results indicating deletions in both 1p and 19q, what is the molecular subtype in this glioma? A) IDHmut-wildtype B) Oligodendroglioma, IDH-mutant and 1p/19q-codeleted C) Astrocytoma, IDH-mutant D) Glioblastoma, IDH-wildtype"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-2W-A8YY-01Z-00-DX1.2BEC2531-DA98-429B-83BB-3428D3B6FB1E-1",
+        "image": "TCGA-CESC/TCGA-2W-A8YY-01Z-00-DX1.2BEC2531-DA98-429B-83BB-3428D3B6FB1E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing no reactivity for Vimentin and ER, and patchy expression of p16 and CEA, what is the molecular subtype in this carcinoma? A) SquamousCarcinoma B) Adenocarcinoma C) NeuroendocrineCarcinoma D) Sarcoma"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-SN-A84Y-01Z-00-DX1.B0B2C279-EBA0-45E9-9798-A30C7424FCEC-1",
+        "image": "TCGA-TGCT/TCGA-SN-A84Y-01Z-00-DX1.B0B2C279-EBA0-45E9-9798-A30C7424FCEC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing strong CD117 staining, what is the molecular subtype in this testicular cancer? A) Seminoma B) Non-seminoma C) Yolk sac tumor D) Leydig cell tumor"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A7-A0CH-01Z-00-DX2.81DDF423-FCA8-46CA-83A4-2E80B611844D-1",
+        "image": "TCGA-BRCA/TCGA-A7-A0CH-01Z-00-DX2.81DDF423-FCA8-46CA-83A4-2E80B611844D.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing negative expression for Keratin (AE1/AE3), what is the molecular subtype of this cancer? A) Basal B) HER2-enriched C) Luminal A D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A04U-01Z-00-DX1.06D17357-46A8-4DC3-A22B-2F4EB6EE3F79-1",
+        "image": "TCGA-BRCA/TCGA-A2-A04U-01Z-00-DX1.06D17357-46A8-4DC3-A22B-2F4EB6EE3F79.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing negative estrogen receptor (ER), negative progesterone receptor (PR), and negative HER2 (1+), what is the molecular subtype of this breast cancer? A) Luminal A   B) HER2-enriched   C) Basal   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A0HU-01Z-00-DX1.73B38904-E4F8-4F45-BD75-A27EC833B6DE-1",
+        "image": "TCGA-BRCA/TCGA-BH-A0HU-01Z-00-DX1.73B38904-E4F8-4F45-BD75-A27EC833B6DE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical findings indicating positive estrogen and progesterone receptor status, alongside a negative HER2 result (1+), what is the identified molecular subtype for this breast cancer? A) Basal B) HER2-enriched C) Luminal B D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-3C-AALK-01Z-00-DX1.4E6EB156-BB19-410F-878F-FC0EA7BD0B53-1",
+        "image": "TCGA-BRCA/TCGA-3C-AALK-01Z-00-DX1.4E6EB156-BB19-410F-878F-FC0EA7BD0B53.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical findings with positive estrogen receptor (ER) and progesterone receptor (PR), an equivocal HER2 status for carcinoma 1, and a positive HER2 status for carcinoma 2, what is the molecular subtype of these breast cancer cases? A) Luminal A B) Basal C) HER2-enriched D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VM-A8C8-01Z-00-DX2.996E1ECF-24B2-4A35-8D00-02BF3C025FC6-1",
+        "image": "TCGA-LGG/TCGA-VM-A8C8-01Z-00-DX2.996E1ECF-24B2-4A35-8D00-02BF3C025FC6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing a Ki-67 proliferation index of up to 10% and diffuse positivity for IDH-1, what is the molecular subtype in this glioma? A) IDHwt B) IDHmut-codel C) IDHmut-non-codel D) Triple-negative"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-VM-A8CH-01Z-00-DX3.B0A4A9A2-14B8-4080-8DF8-B2055EFFFDF8-1",
+        "image": "TCGA-LGG/TCGA-VM-A8CH-01Z-00-DX3.B0A4A9A2-14B8-4080-8DF8-B2055EFFFDF8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing diffuse positivity for Glial Fibrillary Acidic Protein and p53, focal MIB-1 elevation at 20%, and IDH-1 negativity, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDHwt C) 1p/19q co-deleted D) MGMT methylated"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0D4-01Z-00-DX1.35E43827-DABC-4685-A62A-333672923349-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0D4-01Z-00-DX1.35E43827-DABC-4685-A62A-333672923349.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing positive estrogen receptors (>95% nuclear staining), positive progesterone receptors (60-70% nuclear staining), and HER2 neu by IHC at 2+, what is the molecular subtype of this breast cancer? A) Luminal A   B) HER2-enriched   C) Basal   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A2P6-01Z-00-DX1.9D8060AA-881F-49FF-AEF5-B40A3625A44A-1",
+        "image": "TCGA-BRCA/TCGA-E2-A2P6-01Z-00-DX1.9D8060AA-881F-49FF-AEF5-B40A3625A44A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing positive ER and PR, and HER2 negativity confirmed by FISH, what is the molecular subtype of this tumor? A) Luminal A B) HER2-enriched C) Basal D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A5-A0VP-01Z-00-DX1.F77AEB77-0F30-4281-8780-EFDA5BABDC7A-1",
+        "image": "TCGA-UCEC/TCGA-A5-A0VP-01Z-00-DX1.F77AEB77-0F30-4281-8780-EFDA5BABDC7A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing Ki-67 and P53 highlighting the focus of intraepithelial carcinoma in the fallopian tube, PAX8 showing endometrial carcinoma with few positive cells, and PAX8 indicating intraepithelial carcinoma in the fallopian tube, what is the molecular subtype in this uterine carcinoma? A) MSS B) MSI C) POLE-mutant D) Serous-like"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-PG-A5BC-01Z-00-DX8.8B5C9140-CDE8-47F6-B847-F5CFB92399CD-1",
+        "image": "TCGA-UCEC/TCGA-PG-A5BC-01Z-00-DX8.8B5C9140-CDE8-47F6-B847-F5CFB92399CD.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing negative ER, positive PR, and positive p53, what is the molecular subtype in this cancer? A) Luminal A B) Basal-like C) CN_HIGH D) Triple-negative"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DU-8166-01Z-00-DX1.82951397-8c63-4c0f-8696-f081b170e21f-1",
+        "image": "TCGA-LGG/TCGA-DU-8166-01Z-00-DX1.82951397-8c63-4c0f-8696-f081b170e21f.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing reactive plump astrocytosis with GFAP, prominent vascular-associated microglia with CD163, absence of phagocytic cells with KP1, strong overexpression of p53, and several large cycling nuclei highlighted by MIB-1, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDHwildtype C) 1p/19q co-deleted D) BRAF V600E mutant"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-B6-A0WY-01Z-00-DX1.FA103E02-3BDC-47DC-BA6E-59FCC58866D1-1",
+        "image": "TCGA-BRCA/TCGA-B6-A0WY-01Z-00-DX1.FA103E02-3BDC-47DC-BA6E-59FCC58866D1.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results indicating positive estrogen receptor status with a fmol value of 20 and negative progesterone receptor status with a fmol value of 4, what is the molecular subtype of this tumor? A) Basal B) HER2-enriched C) Luminal B D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-D8-A142-01Z-00-DX1.F6D58989-9120-40C9-918D-6B1650C1A8E8-1",
+        "image": "TCGA-BRCA/TCGA-D8-A142-01Z-00-DX1.F6D58989-9120-40C9-918D-6B1650C1A8E8.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the immunohistochemical results where estrogen and progesterone receptors are not found, and HER2 protein shows a score of 2+ with FISH verification recommended, what is the molecular subtype of this tumor?  A) Basal   B) Luminal B   C) HER2-enriched   D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E2-A1LL-01Z-00-DX1.D1AA1613-902C-4579-9612-48A76042B0AE-1",
+        "image": "TCGA-BRCA/TCGA-E2-A1LL-01Z-00-DX1.D1AA1613-902C-4579-9612-48A76042B0AE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing negative expression for estrogen receptor (ER), progesterone receptor (PR), and HER2, what is the molecular subtype of this cancer?   A) Luminal A   B) HER2-enriched   C) Basal   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A1AH-01Z-00-DX1.5D5D7774-77BB-4EA0-9E8E-A8D28F70A575-1",
+        "image": "TCGA-BRCA/TCGA-AR-A1AH-01Z-00-DX1.5D5D7774-77BB-4EA0-9E8E-A8D28F70A575.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing focally positive estrogen receptor, negative progesterone receptor, and negative HER2/neu, what is the molecular subtype of this tumor?   A) HER2-enriched   B) Basal   C) Luminal A   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A18F-01Z-00-DX1.81A81589-2D77-4CD6-BD34-76E292AA031D-1",
+        "image": "TCGA-BRCA/TCGA-BH-A18F-01Z-00-DX1.81A81589-2D77-4CD6-BD34-76E292AA031D.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing negative estrogen receptor (ER), negative progesterone receptor (PR), and HER-2/neu score of 0, what is the molecular subtype of this tumor? A) Basal-like B) HER2-enriched C) Luminal B D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DB-A4XD-01Z-00-DX2.9533A30E-F199-4241-84BF-13D706B6C4A4-1",
+        "image": "TCGA-LGG/TCGA-DB-A4XD-01Z-00-DX2.9533A30E-F199-4241-84BF-13D706B6C4A4.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing overexpression of p53 in the majority of tumor cells, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDHmut-codel C) IDHwt D) 1p/19q co-deleted"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FG-A4MU-01Z-00-DX2.4E6A0F42-3203-453D-A8BE-D9B451618407-1",
+        "image": "TCGA-LGG/TCGA-FG-A4MU-01Z-00-DX2.4E6A0F42-3203-453D-A8BE-D9B451618407.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing negative staining for mutant IDH1 and FISH demonstrating preservation of both chromosomes 1p and 19q, what is the molecular subtype in this glioma? A) IDHwt B) IDH-mutant, 1p/19q co-deleted C) IDH-mutant, 1p/19q intact D) IDH-mutant, ATRX-mutant"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-B5-A11U-01Z-00-DX1.E017CB6D-71F3-4A99-B6BC-184C36D0B955-1",
+        "image": "TCGA-UCEC/TCGA-B5-A11U-01Z-00-DX1.E017CB6D-71F3-4A99-B6BC-184C36D0B955.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing no reactivity for Synaptophysin and Chromogranin, what is the molecular subtype in this cancer type? A) Neuroendocrine carcinoma B) MSI C) EBV-associated D) HPV+"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-HW-7490-01Z-00-DX1.2109dc98-1288-4da2-963e-4544db680603-1",
+        "image": "TCGA-LGG/TCGA-HW-7490-01Z-00-DX1.2109dc98-1288-4da2-963e-4544db680603.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing immunoexpression of R132H mutant IDH1, nuclear p53 expression by many tumor cells, widespread labeling of fibrillary cytoplasmic processes with GFAP, and a MIB-1 (Ki-67) labeling index that does not exceed 2%, what is the molecular subtype in this glioma? A) IDHwt B) IDHmut-codel C) IDHmut-non-codel D) BRAF V600E"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DU-6407-01Z-00-DX1.191e7dfe-7bb3-446f-ba9d-8123b83f75d9-1",
+        "image": "TCGA-LGG/TCGA-DU-6407-01Z-00-DX1.191e7dfe-7bb3-446f-ba9d-8123b83f75d9.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing GFAP focally positive, NeuN weakly positive, synaptophysin with focal positivity, p53 strongly and diffusely positive in nearly 100% of tumor cells, and a Ki-67 labeling index of 80 to 90%, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDHmut-codel C) IDHwt D) BRAF-mutant"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-HT-7468-01Z-00-DX4.4E1782B9-3639-4C7C-B98D-42774CCDC377-1",
+        "image": "TCGA-LGG/TCGA-HT-7468-01Z-00-DX4.4E1782B9-3639-4C7C-B98D-42774CCDC377.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing an MIB-1 labeling index of <1% - 8.8%, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDHwt C) IDHmut-codel D) EGFR-amplified"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-PG-A5BC-01Z-00-DX4.860CCC5D-05A1-4630-8AE0-620825609F83-1",
+        "image": "TCGA-UCEC/TCGA-PG-A5BC-01Z-00-DX4.860CCC5D-05A1-4630-8AE0-620825609F83.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing negative ER, positive PR, and positive p53, what is the molecular subtype in this cancer? A) Luminal A B) Basal-like C) CN_HIGH D) Triple-negative"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AJ-A2QK-01Z-00-DX1.6C505A4E-6976-4502-B621-1FB244DEEEB6-1",
+        "image": "TCGA-UCEC/TCGA-AJ-A2QK-01Z-00-DX1.6C505A4E-6976-4502-B621-1FB244DEEEB6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing P53 focally positive in lesional cells, and negative expression of WT1, Cytokeratin 7, Cytokeratin 20, and CDX2, what is the molecular subtype in this uterine carcinoma? A) MSI-H B) CN_HIGH C) POLE-ultramutated D) EBV-associated"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A0D3-01Z-00-DX1.D18CE1C0-291D-41C1-8F71-2A0551F8C661-1",
+        "image": "TCGA-BRCA/TCGA-A2-A0D3-01Z-00-DX1.D18CE1C0-291D-41C1-8F71-2A0551F8C661.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing positive estrogen and progesterone receptor status and negative HER2 status, what is the molecular subtype of this tumor? A) Luminal A   B) Basal   C) HER2-enriched   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-FG-A4MU-01Z-00-DX1.F557204B-3E0E-4961-ACCA-0567C66E318F-1",
+        "image": "TCGA-LGG/TCGA-FG-A4MU-01Z-00-DX1.F557204B-3E0E-4961-ACCA-0567C66E318F.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing negative staining for mutant IDH1 and FISH demonstrating preservation of both chromosomes 1p and 19q, what is the molecular subtype in this glioma? A) IDHwt B) IDH-mutant, 1p/19q co-deleted C) IDH-mutant, 1p/19q intact D) IDH-mutant, ATRX-mutant"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2-1",
+        "image": "TCGA-BRCA/TCGA-BH-A1ET-01Z-00-DX1.05C126CD-CC10-44BF-9A68-6CDDE97272B2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing positive ER and PR status and negative HER-2/neu expression, what is the molecular subtype of this breast cancer? A) HER2-enriched B) Basal C) Luminal A D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DU-6410-01Z-00-DX1.468e7f40-088d-426a-9458-7079ebcacc98-1",
+        "image": "TCGA-LGG/TCGA-DU-6410-01Z-00-DX1.468e7f40-088d-426a-9458-7079ebcacc98.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing diffuse highlighting of tumor cells with GFAP, weak to moderate positivity for p53 in tumor nuclei, staining of phagocytic cells with CD163, and a Ki-67 labeling index of approximately 25%, what is the molecular subtype in this glioma? A) IDHmut-codel B) IDH-wildtype C) MGMT-methylated D) WNT-activated"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DH-A66G-01Z-00-DX1.82A4242B-EAB4-4474-B5C9-27FD5C322201-1",
+        "image": "TCGA-LGG/TCGA-DH-A66G-01Z-00-DX1.82A4242B-EAB4-4474-B5C9-27FD5C322201.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing focally increased proliferative activity with KI-67, negative P53 protein expression, and positive IDH1, along with chromosomal analysis indicating combined deletion of chromosomes 1p and 19q, what is the molecular subtype in this oligodendroglial brain tumor? A) IDHmut-codel B) IDHwt C) IDHmut-non-codel D) Triple negative"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EY-A212-01Z-00-DX1.948F98F8-1360-406F-AF7B-B30ED54114EC-1",
+        "image": "TCGA-UCEC/TCGA-EY-A212-01Z-00-DX1.948F98F8-1360-406F-AF7B-B30ED54114EC.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing MSH2 and MSH6 both positive with 2-3+ at 30%, MLH1 positive at 2+ with 25%, and ER and PR both positive at 2+ with 15% and 20% respectively, what is the molecular subtype in this cancer type? A) CN_HIGH B) MSI C) POLE-mutant D) EBV-associated"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AC-A23H-01Z-00-DX1.8E0AE339-1047-4CA5-BFC5-37A3B10FD8B5-1",
+        "image": "TCGA-BRCA/TCGA-AC-A23H-01Z-00-DX1.8E0AE339-1047-4CA5-BFC5-37A3B10FD8B5.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing estrogen receptor positivity in only 10% of cells, absence of progesterone receptor activity, and HER2/neu amplification with a score of 3+ and FISH ratio of 5.90, what is the molecular subtype of this breast cancer? A) Luminal A B) HER2-enriched C) Luminal B D) Basal"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AO-A1KS-01Z-00-DX1.349F9BCA-C9F0-43B4-BA6A-D20039E1C720-1",
+        "image": "TCGA-BRCA/TCGA-AO-A1KS-01Z-00-DX1.349F9BCA-C9F0-43B4-BA6A-D20039E1C720.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing strong positive nuclear staining for both ER and PR in 90% of tumor cells, and complete membranous staining of invasive cells for HER2, what is the molecular subtype of this breast cancer? A) Luminal A   B) HER2-enriched   C) Basal   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE-1",
+        "image": "TCGA-BRCA/TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing negative estrogen receptor, progesterone receptor, Her2neu, and androgen receptor, with a positive EGFR, what is the molecular subtype of this tumor?  A) Basal   B) HER2-enriched   C) Luminal B   D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-AR-A24T-01Z-00-DX1.3B325D54-38EC-4E16-BDE1-628894CC15AA-1",
+        "image": "TCGA-BRCA/TCGA-AR-A24T-01Z-00-DX1.3B325D54-38EC-4E16-BDE1-628894CC15AA.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe immunohistochemical staining has been focused on Her-2/NEU, with results ordered on paraffin-embedded tissue. Based on these findings, what is the molecular subtype of this breast cancer? A) HER2-enriched   B) Basal   C) Luminal B   D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A2FR-01Z-00-DX1.FF521BBF-F5BA-4B03-9CA1-101A337F4B45-1",
+        "image": "TCGA-BRCA/TCGA-EW-A2FR-01Z-00-DX1.FF521BBF-F5BA-4B03-9CA1-101A337F4B45.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing negative ER and PR status, equivocal HER2 IHC, and positive HER2 amplification by FISH, what is the molecular subtype of this breast cancer?   A) Luminal A   B) Luminal B   C) HER2-enriched   D) Basal"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A-1",
+        "image": "TCGA-BRCA/TCGA-S3-A6ZH-01Z-00-DX1.E728FF79-4921-436F-BFF5-5B782C0EEB9A.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemistry showing positive estrogen receptor at 98%, positive progesterone receptor at 8%, equivocal Her-2neu at 2+ by IHC and not amplified by FISH, what is the molecular subtype of this breast cancer?   A) Basal   B) HER2-enriched   C) Luminal B   D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A2-A1FZ-01Z-00-DX1.0BAAEF41-DCA4-4677-9A27-09E990033FA6-1",
+        "image": "TCGA-BRCA/TCGA-A2-A1FZ-01Z-00-DX1.0BAAEF41-DCA4-4677-9A27-09E990033FA6.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing a negative cytokeratin status, what is the molecular subtype of this tumor? A) Luminal A   B) Basal   C) HER2-enriched   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-BH-A0HB-01Z-00-DX1.F90F7139-B804-4548-9FAF-9B475BF225EB-1",
+        "image": "TCGA-BRCA/TCGA-BH-A0HB-01Z-00-DX1.F90F7139-B804-4548-9FAF-9B475BF225EB.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the immunohistochemical results showing positive estrogen and progesterone receptors and HER2/neu score of 2+, what is the molecular subtype of this breast cancer? A) Luminal A   B) Basal   C) HER2-enriched   D) Luminal B"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-E9-A5FL-01Z-00-DX1.FB810D6A-303E-45DF-BEF1-D9CE83B4417E-1",
+        "image": "TCGA-BRCA/TCGA-E9-A5FL-01Z-00-DX1.FB810D6A-303E-45DF-BEF1-D9CE83B4417E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGiven the immunohistochemical results showing negative ER, PR, and Her-2/neu, with a Ki-67 index of 30%, what is the molecular subtype of this tumor? A) Luminal A   B) HER2-enriched   C) Luminal B   D) Basal"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-EW-A1J5-01Z-00-DX1.FFE303B1-7F36-4276-B931-C2A6B2CBD1F2-1",
+        "image": "TCGA-BRCA/TCGA-EW-A1J5-01Z-00-DX1.FFE303B1-7F36-4276-B931-C2A6B2CBD1F2.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nConsidering the immunohistochemical staining results showing estrogen receptor (ER) and progesterone receptor (PR) both at 21%, and HER2 positive with a score of 3, what is the molecular subtype of this breast cancer? A) Basal   B) HER2-enriched   C) Luminal B   D) Luminal A"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-DB-A4XE-01Z-00-DX1.C45CDC01-DCE7-404B-88E0-9EAF67E7A26E-1",
+        "image": "TCGA-LGG/TCGA-DB-A4XE-01Z-00-DX1.C45CDC01-DCE7-404B-88E0-9EAF67E7A26E.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing p53 positivity in tumor cells and a moderate MIB-1 labeling index, what is the molecular subtype in this glioma? A) IDHmut-non-codel B) IDH-wildtype C) 1p/19q co-deleted D) EGFR-amplified"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-CN-5359-01Z-00-DX1.30a19cad-c2b0-4c5f-bd5d-89aa8ac2bb91-1",
+        "image": "TCGA-HNSC/TCGA-CN-5359-01Z-00-DX1.30a19cad-c2b0-4c5f-bd5d-89aa8ac2bb91.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing EGFR positivity and P16 negativity, what is the molecular subtype in this oropharyngeal cancer? A) HPV+ B) HPV- C) EBV-associated D) MSS"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "TCGA-A5-A0GB-01Z-00-DX1.5B2568B9-F9D6-41AC-A5E9-695A3E7BA751-1",
+        "image": "TCGA-UCEC/TCGA-A5-A0GB-01Z-00-DX1.5B2568B9-F9D6-41AC-A5E9-695A3E7BA751.pt",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the IHC results showing positive Keratin AE 1/3, MOC 31, BER-EP4, and negative for Cytokeratin 7, CAM 5.2, Vimentin, WT1, Chromogranin, Synaptophysin, variable p53 and p16 positivity in the undifferentiated component, and rare CK5/6 positive cells in the endometrioid component, what is the molecular subtype in this uterine carcinoma? A) POLE-mutant B) MSI C) MSS D) HPV+"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    }
+]
